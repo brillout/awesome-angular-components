@@ -1,5 +1,10 @@
 # Angular 2+ Components & Libraries
 
+ - Official website: [`devarchy.com/angular-components`](http://devarchy.com/angular-components)
+ - Use devarchy to add a library to the catalog
+
+<br/>
+
 #### Contents
 - [UI Components](#ui-components)
     - [Modal](#modal)
