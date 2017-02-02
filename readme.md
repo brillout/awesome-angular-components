@@ -160,7 +160,7 @@
 
  - [ng2-datepicker](https://github.com/jkuri/ng2-datepicker)
  - [mydatepicker](https://github.com/kekeh/mydatepicker)
- - [https://github.com/nkalinov/ng2-datetime](https://github.com/nkalinov/ng2-datetime)
+ - [ng2-datetime](https://github.com/nkalinov/ng2-datetime)
 
 ###### Drag and Drop
 
