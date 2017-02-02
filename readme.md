@@ -81,7 +81,7 @@
 
 ###### Popover
 
- - [angular-confirmation-popover](https://github.com/mattlewis92/angular2-bootstrap-confirm)
+ - [angular-confirmation-popover](https://github.com/mattlewis92/angular-bootstrap-confirm)
 
 ###### Loading / Progress Indicators
 
