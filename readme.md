@@ -387,7 +387,7 @@
 *Integrate with services or other frameworks*
 
  - [angularfire2](https://github.com/angular/angularfire2)
- - [ang2-jwt](https://github.com/uth0/angular2-jwt)
+ - [ang2-jwt](https://github.com/auth0/angular2-jwt)
  - [angular2-react-native](https://github.com/angular/react-native-renderer)
  - [angular2-meteor](https://github.com/Urigo/angular-meteor)
  - [angulartics2](https://github.com/angulartics/angulartics2)
