@@ -127,7 +127,7 @@
 ###### Map
 
  - [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) - Angular 2 components for Google Maps.
- - [ng2-map](https://github.com/ng2-ui/ng2-map) - Angular2 Google Map`.
+ - [ng2-map](https://github.com/ng2-ui/ng2-map) - Angular2 Google Map.
 
 ###### Infinite Scroll
 
