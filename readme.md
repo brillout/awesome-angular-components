@@ -375,7 +375,7 @@
 
 *Reduce amount of time the user has to wait in order to interact with the app*
 
- - [angular2-idle-preload](https://github.com/AngularClass/angular2-idle-preload) - Use @angularclass/idle-preload.
+ - [@angularclass/idle-preload](https://github.com/AngularClass/angular2-idle-preload) - Angular 2 Idle Preload for preloading async routes via @AngularClass.
 
 ###### Lazy Load
 
