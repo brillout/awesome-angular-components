@@ -373,7 +373,7 @@
 
 # Performance
 
-*Reduce amount of time the user waits to interact with the app*
+*Reduce amount of time the user has to wait in order to interact with the app*
 
  - [angular2-idle-preload](https://github.com/AngularClass/angular2-idle-preload)
 
