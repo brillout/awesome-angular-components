@@ -226,7 +226,7 @@
 
 ### Mobile
 
- - [angular2-onsenui](https://github.com/onsenui/onsenui) - All the following commands must be executed in `bindings/angular2` directory. Also, **you need to build the core before building this binding.**.
+ - [angular2-onsenui](https://github.com/onsenui/onsenui) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 
 ### Component Collections
 
