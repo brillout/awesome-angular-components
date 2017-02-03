@@ -253,7 +253,6 @@
 
  - [wfw-ng2-redux](https://github.com/wbuchwalter/ng2-redux)
  - [@ngrx/store](https://github.com/ngrx/store)
- - [qdouble-store](https://github.com/ngrx/store)
 
 
 
