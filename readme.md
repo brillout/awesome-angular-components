@@ -230,6 +230,7 @@
 
 ### Component Collections
 
+ - [primeng](https://github.com/primefaces/primeng)
  - [ng-lightning](https://github.com/ng-lightning/ng-lightning)
  - [angular2-mdl-miracle](https://github.com/mseemann/angular2-mdl)
  - [fuel-ui](https://github.com/FuelInteractive/fuel-ui)
