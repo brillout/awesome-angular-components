@@ -70,14 +70,14 @@
 
 ###### Modal
 
-*Display overlay / modal / dialog*
+*Display overlay / modal / alert / dialog / lightbox / popup*
 
  - [angular2-modal](https://github.com/shlomiassaf/angular2-modal) - Angular2 Modal (dialog) window.
  - [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular2 Boostrap3 Modal Component.
 
 ###### Notification
 
-*Toaster / alert / snackbar — Notify the user with a temporary little modal*
+*Toaster / snackbar — Notify the user with a modeless temporary little popup*
 
  - [angular2-toaster](https://github.com/stabzs/Angular2-Toaster) - An Angular 2 Toaster Notification library based on AngularJS-Toaster.
  - [ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your web app.
@@ -85,6 +85,8 @@
  - [toastr-ng2](https://github.com/scttcper/toastr-ng2) - Toastr for Angular 2.
 
 ###### Popover
+
+*Show a little dialog next to an element*
 
  - [angular-confirmation-popover](https://github.com/mattlewis92/angular-bootstrap-confirm) - An angular 2.0+ bootstrap confirmation popover.
 
@@ -97,7 +99,7 @@
 
 ###### Table
 
-*Table / Data Grid — Display large datasets*
+*Table / Data Grid — Display (large) datasets*
 
 - [angular2-data-table](https://github.com/swimlane/angular2-data-table) - Angular2-data-table is a Angular2 component for presenting large and complex data.
 - [ng2-table](https://github.com/valor-software/ng2-table) - Simple angular2 table components with sorting, filtering...
