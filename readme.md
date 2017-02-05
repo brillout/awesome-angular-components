@@ -148,7 +148,7 @@
 
 ### Form
 
-*Let the user enter data*
+*Let the user create & edit data*
 
 ###### Select
 
