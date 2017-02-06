@@ -71,7 +71,7 @@
 
 # UI Components
 
-###### Modal
+###### Overlay
 
 *Display overlay / modal / alert / dialog / lightbox / popup*
 
