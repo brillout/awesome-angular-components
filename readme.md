@@ -7,7 +7,7 @@
 
 #### Contents
 - [UI Components](#ui-components)
-    - [Modal](#modal)
+    - [Overlay](#overlay)
     - [Notification](#notification)
     - [Popover](#popover)
     - [Menu](#menu)
