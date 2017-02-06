@@ -10,6 +10,7 @@
     - [Modal](#modal)
     - [Notification](#notification)
     - [Popover](#popover)
+    - [Menu](#menu)
     - [Loading / Progress Indicators](#loading--progress-indicators)
     - [Table](#table)
     - [Tree](#tree)
@@ -18,6 +19,7 @@
     - [Map](#map)
     - [Infinite Scroll](#infinite-scroll)
     - [Audio / Video](#audio--video)
+    - [SVG](#svg)
     - [PDF](#pdf)
     - [Form](#form)
           - [Select](#select)
@@ -47,6 +49,7 @@
     - [API](#api)
     - [Authentication](#authentication)
     - [Responsive Design](#responsive-design)
+    - [Event Handling](#event-handling)
     - [i18n](#i18n)
     - [Pagination](#pagination)
     - [Angular 1 -> Anuglar 2 Migration](#angular-1---anuglar-2-migration)
@@ -89,6 +92,12 @@
 *Show a little dialog next to an element*
 
  - [angular-confirmation-popover](https://github.com/mattlewis92/angular-bootstrap-confirm) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
+
+###### Menu
+
+*Menu / sidebar*
+
+ - [ng-sidebar](https://github.com/arkon/ng-sidebar) - Angular 2+ sidebar component.
 
 ###### Loading / Progress Indicators
 
@@ -138,6 +147,10 @@
 ###### Audio / Video
 
  - [videogular2](https://github.com/videogular/videogular2) - The HTML5 video player for Angular 2.
+
+###### SVG
+
+ - [ng-inline-svg](https://github.com/arkon/ng-inline-svg) - Angular 2+ directive for inserting an SVG file inline within an element.
 
 ###### PDF
 
@@ -209,6 +222,8 @@
 
 
 # UI Layout
+
+*Layout for the overall / main view*
 
  - [angular2-grid](https://github.com/BTMorton/angular2-grid) - A grid-based drag/drop/resize directive plugin for Angular 2.
  - [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) - Angular 2 fullpage scrolling.
@@ -318,6 +333,10 @@
 ###### Responsive Design
 
  - [responsive-directives-angular2](https://github.com/ManuCutillas/responsive-directives-angular2) - Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2.
+
+###### Event Handling
+
+ - [ng-click-outside](https://github.com/arkon/ng-click-outside) - Angular 2+ directive for handling click events outside of an element.
 
 ###### i18n
 
