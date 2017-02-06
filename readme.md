@@ -216,12 +216,16 @@
 
 
 
+
+
+
 # UI Frameworks
 
 
 ### Responsive
 
- - [sallar-ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) - Native Angular directives for Bootstrap.
+ - [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap) - Native Angular directives for Bootstrap.
+ - [@ng-bootstrap/ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) - Angular powered Bootstrap.
  - [ng-semantic](https://github.com/vladotesanovic/ngSemantic) - Angular 2 building blocks based on Semantic UI.
  - [angular2-materialize](https://github.com/InfomediaLtd/angular2-materialize) - Angular 2 support for Materialize CSS framework.
  - [ng2-semantic-ui](https://github.com/edcarroll/ng2-semantic-ui) - Semantic UI Angular 2 Integrations -- no JQuery required --.
