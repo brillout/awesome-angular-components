@@ -230,6 +230,9 @@
  - [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) - Angular 2 fullpage scrolling.
  - [angular-split](https://github.com/bertrandg/angular-split) - Angular (2+) UI library to split views.
 
+###### Responsive
+
+ - [@angular/flex-layout](https://github.com/angular/flex-layout)
 
 
 
