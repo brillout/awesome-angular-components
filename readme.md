@@ -253,6 +253,7 @@
 
 ### Mobile
 
+ - [ionic2](https://github.com/driftyco/ionic) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything.
  - [angular2-onsenui](https://github.com/onsenui/onsenui) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 
 ### Component Collections
