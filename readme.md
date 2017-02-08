@@ -113,7 +113,7 @@
 
 *Table / Data Grid — Display (large) datasets*
 
-- [angular2-data-table](https://github.com/swimlane/angular2-data-table) - A feature-rich yet lightweight data-table crafted for Angular2 and beyond.
+- [ngx-datatable](https://github.com/swimlane/ngx-datatable) - A feature-rich yet lightweight data-table crafted for Angular2 and beyond.
 - [ng2-table](https://github.com/valor-software/ng2-table) - Simple table extension with sorting, filtering, paging... for Angular2 apps.
 - [angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2.
 - [ng2-easy-table](https://github.com/ssuperczynski/ng2-easy-table) - The easiest Angular2 table.
