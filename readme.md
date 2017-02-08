@@ -400,6 +400,7 @@
  - [@manekinekko/angular-web-bluetooth](https://github.com/manekinekko/angular-web-bluetooth) - The missing Web Bluetooth module for Angular (>=2).
  - [@manekinekko/google-actions-starter](https://github.com/manekinekko/google-actions-starter) - A Node.js server for Google Assistant (and Google Home).
  - [@manekinekko/google-actions-server](https://github.com/manekinekko/google-actions-server) - A Node.js server for your Google Actions/Home.
+ - [@compodoc/ngd-cli](https://github.com/compodoc/ngd) - View the dependencies tree of you Angular2 application.
 
 
 
