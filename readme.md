@@ -1,3 +1,5 @@
+[<img src="https://rawgit.com/brillout/awesome-angular-components/master/angular-logo.svg" align="right" width="131">](https://github.com/brillout/awesome-angular-components)
+
 # Angular 2+ Components & Libraries
 
  - Official website: [`devarchy.com/angular-components`](http://devarchy.com/angular-components)
