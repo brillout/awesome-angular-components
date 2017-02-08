@@ -58,6 +58,7 @@
     - [Asset management](#asset-management)
     - [Form](#form-1)
     - [Cookie](#cookie)
+    - [Clipboard](#clipboard)
     - [Logging](#logging)
     - [Documentation](#documentation)
     - [Miscellaneous](#miscellaneous)
@@ -383,6 +384,12 @@
 *Cookie manipulation*
 
  - [angular2-cookie](https://github.com/salemdar/angular2-cookie) - Implementation of Angular 1.x $cookies service to Angular 2.
+
+###### Clipboard
+
+*Copy & paste text to clipboard*
+
+ - [ngx-clipboard](https://github.com/maxisam/ngx-clipboard) - A wrapper directive for clipboard.js.
 
 ###### Logging
 
