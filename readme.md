@@ -441,6 +441,7 @@
 
 *Boilerplate / scaffold / Yeoman generator / stack ensemble / seed*
 
+ - [@angular/cli](https://github.com/angular/angular-cli) - Official CLI tool for Angular.
  - [adnotare-psc](https://github.com/angularclass/angular2-webpack-starter) - An Angular Starter kit featuring Angular 2 and Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass.
  - [test-angular-seed-project](https://github.com/angular/angular2-seed) - A simple starter Angular2 project.
  - [poke-try-harder](https://github.com/antonybudianto/angular2-starter) - Extensible Angular 2 Starter using TypeScript (Updated to 2.4.3).
