@@ -397,6 +397,7 @@
 *Uncommon use cases*
 
  - [angular2-iot](https://github.com/urish/angular2-iot) - Internet of Things directives for Angular 2 (Led, Button, etc.).
+ - [@manekinekko/angular-web-bluetooth](https://github.com/manekinekko/angular-web-bluetooth) - The missing Web Bluetooth module for Angular (>=2).
 
 
 
