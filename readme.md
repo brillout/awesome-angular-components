@@ -61,10 +61,11 @@
     - [Clipboard](#clipboard)
     - [Logging](#logging)
     - [Documentation](#documentation)
-    - [Miscellaneous](#miscellaneous)
+    - [IoT](#iot)
 - [Performance](#performance)
     - [Lazy Load](#lazy-load)
 - [Integrations](#integrations)
+- [Dev Tools](#dev-tools)
 - [Starter Kit](#starter-kit)
 
 <br/>
@@ -399,15 +400,12 @@
 
  - [compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
 
-###### Miscellaneous
+###### IoT
 
-*Uncommon use cases*
+*Internet of Things*
 
  - [angular2-iot](https://github.com/urish/angular2-iot) - Internet of Things directives for Angular 2 (Led, Button, etc.).
  - [@manekinekko/angular-web-bluetooth](https://github.com/manekinekko/angular-web-bluetooth) - The missing Web Bluetooth module for Angular (>=2).
- - [@manekinekko/google-actions-starter](https://github.com/manekinekko/google-actions-starter) - A Node.js server for Google Assistant (and Google Home).
- - [@manekinekko/google-actions-server](https://github.com/manekinekko/google-actions-server) - A Node.js server for your Google Actions/Home.
- - [@compodoc/ngd-cli](https://github.com/compodoc/ngd) - View the dependencies tree of you Angular2 application.
 
 
 
@@ -446,6 +444,13 @@
  - [meteor-rxjs](https://github.com/Urigo/mongo-rxjs-observable) - Exposing Mongo Cursor as RxJS Observable.
 
 
+
+
+
+
+# Dev Tools
+
+ - [@compodoc/ngd-cli](https://github.com/compodoc/ngd) - View the dependencies tree of you Angular2 application.
 
 
 
