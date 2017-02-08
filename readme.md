@@ -457,4 +457,5 @@
  - [generator-modern-web-dev](https://github.com/dsebastien/modernWebDevGenerator) - A Yeoman generator for Modern Web development projects.
  - [generator-gulp-angular2](https://github.com/x6doooo/generator-gulp-angular2) - Yeoman generator for Angular2 + Gulp, base on angular2-seed and generator-gulp-angular.
  - [asaf-test](https://github.com/preboot/angular-library-seed) - Get started building an Angular library quickly.
+ - [@manekinekko/angular-library-starter](https://github.com/manekinekko/angular-library-starter) - A Minimalist Starter for Angular (v2+) libraries (w/ AOT support).
 
