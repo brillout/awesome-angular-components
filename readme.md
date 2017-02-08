@@ -1,4 +1,4 @@
-[<img src="https://rawgit.com/brillout/awesome-angular-components/master/angular-logo.svg" align="right" width="131">](https://github.com/brillout/awesome-angular-components)
+[<img src="https://rawgit.com/brillout/awesome-angular-components/master/angular-logo.svg" align="right" width="131" height="143">](https://github.com/brillout/awesome-angular-components)
 
 # Angular 2+ Components & Libraries
 
