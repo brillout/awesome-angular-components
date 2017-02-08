@@ -251,6 +251,7 @@
 
 ### Component Collections
 
+ - [@angular/material](https://github.com/angular/material2) - Official Material Design components for Angular.
  - [primeng](https://github.com/primefaces/primeng) - UI Components for Angular 2.
  - [ng-lightning](https://github.com/ng-lightning/ng-lightning) - Native Angular 2 components & directives for Lightning Design System.
  - [angular2-mdl-miracle](https://github.com/mseemann/angular2-mdl) - Angular 2 components, directives and styles based on material design lite.
