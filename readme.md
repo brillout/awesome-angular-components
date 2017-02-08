@@ -54,7 +54,7 @@
     - [Event Handling](#event-handling)
     - [i18n](#i18n)
     - [Pagination](#pagination)
-    - [Angular 1 -> Anuglar 2 Migration](#angular-1---anuglar-2-migration)
+    - [Angular 1 -> Angular 2 Migration](#angular-1---anuglar-2-migration)
     - [Asset management](#asset-management)
     - [Form](#form-1)
     - [Cookie](#cookie)
@@ -357,7 +357,7 @@
 
  - [ng2-pagination](https://github.com/michaelbromley/ng2-pagination) - Pagination for Angular.
 
-###### Angular 1 -> Anuglar 2 Migration
+###### Angular 1 -> Angular 2 Migration
 
  - [ng-metadata](https://github.com/ngParty/ng-metadata) - Angular 2 decorators and utils for Angular 1.x.
  - [angular2-now](https://github.com/pbastowski/angular2-now) - Angular 2 @Component syntax for Angular 1 apps.
