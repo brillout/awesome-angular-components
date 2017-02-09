@@ -346,6 +346,7 @@
  - [ng2-ui-auth](https://github.com/ronzeidman/ng2-ui-auth) - An angular2 repository for authentication based on angular1's satellizer.
  - [angular2-token](https://github.com/neroniaky/angular2-token) - Token based authentication service for Angular2 (ng2) with multi-user support. Works best with the devise token auth gem for Rails.
  - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
+ - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2.
 
 ###### Responsive Design
 
