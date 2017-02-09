@@ -311,6 +311,7 @@
  - [angular-pipes](https://github.com/fknop/angular-pipes) - Useful pipes for Angular.
  - [ngx-pipes](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular 2 and beyond with no external dependencies.
  - [ng-pipes](https://github.com/a8m/ng-pipes) - Bunch of useful pipes for Angular2 (with no external dependencies!).
+ - [angular2-linky](https://github.com/dzonatan/angular2-linky) - Linky pipe for angular2.
 
 ###### Meta Tags
 
