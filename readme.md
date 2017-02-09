@@ -182,6 +182,7 @@
 *Autosuggest / autocomplete / typeahead*
 
  - [ng2-completer](https://github.com/oferh/ng2-completer) - Angular 2 autocomplete component.
+ - [ng2-auto-complete](https://github.com/ng2-ui/ng2-auto-complete) - Angular2 Auto Complete.
 
 ###### Date Picker
 
