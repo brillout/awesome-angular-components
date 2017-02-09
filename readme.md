@@ -483,4 +483,5 @@
  - [@manekinekko/angular-library-starter](https://github.com/manekinekko/angular-library-starter) - A Minimalist Starter for Angular (v2+) libraries (w/ AOT support).
  - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular Starter kit featuring Angular 2 and Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass.
  - [angular2-universal-starter](https://github.com/alexpods/angular2-universal-starter) - Enjoy Server Side rendering and Web Workers in your Angular2 Application.
+ - [angular-seed](https://github.com/mgechev/angular-seed) - Extensible, reliable and modular starter project for Angular 2 (and beyond) with statically typed build and AoT compilation.
 
