@@ -90,6 +90,7 @@
  - [ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
  - [ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications.
  - [toastr-ng2](https://github.com/scttcper/toastr-ng2) - Angular 2 toastr.
+ - [@ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular.
 
 ###### Popover
 
