@@ -91,6 +91,7 @@
  - [ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications.
  - [toastr-ng2](https://github.com/scttcper/toastr-ng2) - Angular 2 toastr.
  - [@ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular.
+ - [angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular 2. It features both regular page notifications (toasts) and push notifications.
 
 ###### Popover
 
