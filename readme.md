@@ -478,4 +478,5 @@
  - [generator-gulp-angular2](https://github.com/x6doooo/generator-gulp-angular2) - Yeoman generator for Angular2 + Gulp, base on angular2-seed and generator-gulp-angular.
  - [asaf-test](https://github.com/preboot/angular-library-seed) - Get started building an Angular library quickly.
  - [@manekinekko/angular-library-starter](https://github.com/manekinekko/angular-library-starter) - A Minimalist Starter for Angular (v2+) libraries (w/ AOT support).
+ - [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular Starter kit featuring Angular 2 and Angular 4 (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript 2, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack 2 by @AngularClass.
 
