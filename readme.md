@@ -342,6 +342,7 @@
  - [angular2-rest](https://github.com/Paldom/angular2-rest) - Angular2 HTTP client to consume RESTful services. Built with TypeScript.
  - [ng2-resource-rest](https://github.com/troyanskiy/ng2-resource-rest) - Resource (REST) Client for Angular 2.
  - [angular2-jsonapi](https://github.com/ghidoz/angular2-jsonapi) - A lightweight Angular 2 adapter for JSON API.
+ - [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) - Rest API provider for angular 2.
 
 ###### Authentication
 
