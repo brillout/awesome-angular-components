@@ -119,6 +119,7 @@
 - [ng2-table](https://github.com/valor-software/ng2-table) - Simple table extension with sorting, filtering, paging... for Angular2 apps.
 - [angular2-datatable](https://github.com/mariuszfoltak/angular2-datatable) - DataTable - Simple table component with sorting and pagination for Angular2.
 - [ng2-easy-table](https://github.com/ssuperczynski/ng2-easy-table) - The easiest Angular2 table.
+ - [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable.
 
 ###### Tree
 
