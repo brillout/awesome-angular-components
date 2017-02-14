@@ -201,7 +201,7 @@
 
 ###### Masked Input
 
- - [angular2-text-mask2](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
+ - [angular2-text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
 
 ###### Calendar
 
