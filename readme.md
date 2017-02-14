@@ -457,6 +457,7 @@
  - [ng2-alfresco-core](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Angular 2 components.
  - [karma-typescript](https://github.com/monounity/karma-typescript) - Simplifying running unit tests with coverage for Typescript projects.
  - [meteor-rxjs](https://github.com/Urigo/mongo-rxjs-observable) - Exposing Mongo Cursor as RxJS Observable.
+ - [wp-api-angular](https://github.com/shprink/wp-api-angular) - Angular (>=2) services for WordPress WP-API(v2) or WP >= 4.7 (natively supports WP-API).
 
 
 
