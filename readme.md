@@ -366,7 +366,7 @@
 
 *Internationalization / L10n / localization / translation*
 
- - [ng2-translate](https://github.com/ocombe/ng2-translate) - The internationalization (i18n) library for Angular 2+.
+ - [@ngx-translate/core](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular 2+.
  - [angular2localization](https://github.com/robisim74/angular2localization) - An Angular 2 library to translate messages, dates and numbers.
 
 ###### Pagination
