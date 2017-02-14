@@ -123,6 +123,7 @@
  - [ng2-easy-table](https://github.com/ssuperczynski/ng2-easy-table) - The easiest Angular2 table.
  - [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable.
  - [ag-grid-ng2](https://github.com/ceolter/ag-grid-ng2) - Ag-Grid Angular 2 Component.
+ - [ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular 2 Smart Data Table component.
 
 ###### Tree
 
