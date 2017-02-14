@@ -216,7 +216,6 @@
 ###### File Upload
 
  - [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular2 components for files upload.
- - [ng2-uploader-rc6fix](https://github.com/jkuri/ng2-uploader) - Angular File Uploader.
  - [ngx-uploader](https://github.com/jkuri/ngx-uploader) - Angular File Uploader.
 
 ###### Autosize Input / Textarea
