@@ -259,6 +259,7 @@
  - [angular2-materialize](https://github.com/InfomediaLtd/angular2-materialize) - Angular 2 support for Materialize CSS framework.
  - [ng2-semantic-ui](https://github.com/edcarroll/ng2-semantic-ui) - Semantic UI Angular 2 Integrations -- no JQuery required --.
  - [clarity-angular](https://github.com/vmware/clarity) - Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences.
+ - [@covalent/core](https://github.com/teradata/covalent) - Teradata UI Platform built on Angular-Material 2.0.
 
 ### Mobile
 
