@@ -490,5 +490,5 @@
  - [angular2-universal-starter](https://github.com/alexpods/angular2-universal-starter) - Enjoy Server Side rendering and Web Workers in your Angular2 Application.
  - [angular-seed](https://github.com/mgechev/angular-seed) - Extensible, reliable and modular starter project for Angular 2 (and beyond) with statically typed build and AoT compilation.
  - [clarity-seed](https://github.com/vmware/clarity-seed) - This is a repository for a seed project that includes Clarity Design System's dependencies.
- - [angular2-webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
+ - [Angular 2 Webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
 
