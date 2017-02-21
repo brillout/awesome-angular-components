@@ -466,6 +466,7 @@
  - [selfbits-angular2-sdk](https://github.com/selfbits/selfbits-angular2-sdk) - Angular 2 SDK for Selfbits Backend-as-a-Service.
  - [ng2-wp-api](https://github.com/MurhafSousli/ng2-wp-api) - Angular WordPress Module.
  - [angular2-disqus](https://github.com/Useful-Software-Solutions-Ltd/angular2-disqus) - A DISQUS integration for Angular2.
+ - [angular2-cloudtasks](https://github.com/Cloudtasks/angular2-cloudtasks) - Helps using Cloudtasks.io image processing task by substituting your images sources with the processing URL.
 
 
 
