@@ -469,6 +469,7 @@
  - [angular2-disqus](https://github.com/Useful-Software-Solutions-Ltd/angular2-disqus) - A DISQUS integration for Angular2.
  - [angular2-cloudtasks](https://github.com/Cloudtasks/angular2-cloudtasks) - Helps using Cloudtasks.io image processing task by substituting your images sources with the processing URL.
  - [@cloudinary/angular](https://github.com/cloudinary/cloudinary_angular) - Cloudinary Angular client library.
+ - [ng2-recaptcha](https://github.com/dethariel/ng2-recaptcha) - Angular 2 component for Google reCAPTCHA.
 
 
 
