@@ -440,6 +440,7 @@
 ###### Lazy Load
 
  - [ng2-lazyload-image](https://github.com/tjoskar/ng2-lazyload-image) - Lazy image loader for Angular 2.
+ - [ng2-image-lazy-load](https://github.com/NathanWalker/ng2-image-lazy-load) - Angular2 image lazy loader library.
 
 
 
