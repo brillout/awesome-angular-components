@@ -20,13 +20,20 @@
     - [Charts](#charts)
     - [Map](#map)
     - [Infinite Scroll](#infinite-scroll)
+    - [Parallax](#parallax)
+    - [Scrollbar](#scrollbar)
+    - [Slider / Carousel](#slider--carousel)
+    - [Stick](#sticky)
     - [Audio / Video](#audio--video)
     - [SVG](#svg)
     - [PDF](#pdf)
+    - [Social Sharing](#social-sharing)
     - [Form](#form)
           - [Select](#select)
           - [Autocomplete](#autocomplete)
+          - [Type Select](#type-select)
           - [Date Picker](#date-picker)
+          - [Color Picker](#color-picker)
           - [Drag and Drop](#drag-and-drop)
           - [Masked Input](#masked-input)
           - [Calendar](#calendar)
@@ -39,8 +46,10 @@
     - [Responsive](#responsive)
     - [Mobile](#mobile)
     - [Component Collections](#component-collections)
+    - [Admin Panel](#admin-panel)
 - [Code Structure](#code-structure)
     - [Data Management](#data-management)
+    - [Communication with Server](#communication-with-server)
 - [Code Style](#code-style)
 - [Utilities](#utilities)
     - [Pipes](#pipes)
@@ -58,6 +67,7 @@
     - [Asset management](#asset-management)
     - [Form](#form-1)
     - [Cookie](#cookie)
+    - [Routing](#routing)
     - [Clipboard](#clipboard)
     - [Logging](#logging)
     - [Documentation](#documentation)
@@ -77,7 +87,7 @@
 
 ###### Overlay
 
-*Display overlay / modal / alert / dialog / lightbox / popup*
+*Overlay / modal / alert / dialog / lightbox / popup*
 
  - [angular2-modal](https://github.com/shlomiassaf/angular2-modal) - Angular2 Modal / Dialog window.
  - [ng2-bs3-modal](https://github.com/dougludlow/ng2-bs3-modal) - Angular2 Bootstrap3 Modal Component.
@@ -156,6 +166,28 @@
 
  - [angular2-infinite-scroll](https://github.com/orizens/angular2-infinite-scroll) - Infinite Scroll Directive for angular 2.
 
+###### Parallax
+
+*Parallax effect while scrolling*
+
+ - [ng2-parallax-scroll](https://github.com/ng2-ui/ng2-parallax-scroll) - Angular2 parallax background scroll directive.
+
+###### Scrollbar
+
+*Replace the browser scrollbar with a custom one*
+
+ - [angular2-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar) - Angular 2 wrapper library for perfect scrollbar.
+
+###### Slider / Carousel
+
+- [angular2-swiper-wrapper](https://github.com/zefoy/ngx-swiper-wrapper) - Angular 2 wrapper library for swiper.
+
+###### Sticky
+
+*Implementations similar to `position: sticky`*
+
+ - [ng2-sticky](https://github.com/ng2-ui/ng2-sticky) - Angular2 "position: sticky" implementation as a directive.
+
 ###### Audio / Video
 
  - [videogular2](https://github.com/videogular/videogular2) - The HTML5 video player for Angular 2.
@@ -167,6 +199,11 @@
 ###### PDF
 
  - [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - PDF Viewer Component for Angular 2.
+
+###### Social Sharing
+
+ - [ng2-sharebuttons](https://github.com/MurhafSousli/ng2-sharebuttons)
+
 
 
 
@@ -187,6 +224,12 @@
  - [ng2-completer](https://github.com/oferh/ng2-completer) - Angular 2 autocomplete component.
  - [ng2-auto-complete](https://github.com/ng2-ui/ng2-auto-complete) - Angular2 Auto Complete.
 
+###### Type Select
+
+*Let the user select a tag / something while typing*
+
+ - [ng2-tag-input](https://github.com/Gbuomprisco/ng2-tag-input) - Tag Input for Angular.
+
 ###### Date Picker
 
 *Time Picker / Datetime Picker*
@@ -194,6 +237,10 @@
  - [ng2-datepicker](https://github.com/jkuri/ng2-datepicker) - Angular2 Datepicker Component.
  - [mydatepicker](https://github.com/kekeh/mydatepicker) - Angular2 date picker.
  - [ng2-datetime](https://github.com/nkalinov/ng2-datetime) - Datetime picker plugins wrapper for Angular2.
+
+###### Color Picker
+
+ - [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for Angular 2+.
 
 ###### Drag and Drop
 
@@ -237,6 +284,8 @@
 
 
 
+
+
 # UI Layout
 
 *Layout for the overall / main view*
@@ -248,6 +297,8 @@
 ###### Responsive
 
  - [@angular/flex-layout](https://github.com/angular/flex-layout)
+
+
 
 
 
@@ -283,6 +334,13 @@
  - [igniteui-js-blocks](https://github.com/IgniteUI/igniteui-js-blocks) - Mobile-first Angular native components.
  - [devextreme-angular](https://github.com/DevExpress/devextreme-angular) - Angular 2 UI and visualization components based on DevExtreme widgets.
 
+### Admin panel
+
+*Admin panels / dashboard*
+
+ - [ng2-admin](https://github.com/akveo/ng2-admin) - Angular 2 admin dashboard framework.
+
+
 
 
 
@@ -299,6 +357,11 @@
  - [@ngrx/store](https://github.com/ngrx/store) - RxJS powered state management for Angular applications, inspired by Redux.
  - [ng2-mobx](https://github.com/500tech/ng2-mobx) - MobX connector to Angular 2.
 
+### Communication with Server
+
+ - [apollo-angular](https://github.com/apollographql/apollo-angular) - Angular integration for the Apollo Client.
+
+
 
 
 
@@ -309,6 +372,7 @@
  - [codelyzer-cli](https://github.com/mgechev/codelyzer) - Linting for Angular projects.
  - [babel-plugin-angular2-annotations](https://github.com/shuhei/babel-plugin-angular2-annotations) - A babel transformer plugin for Angular 2 annotations.
  - [redux-decorators](https://github.com/KarlPurk/redux-decorators) - A ridiculously good syntax for working with Redux using decorators in ES7 / TypeScript. Currently limited to Angular 2 but could potentially be used elsewhere.
+
 
 
 
@@ -406,6 +470,10 @@
 *Cookie manipulation*
 
  - [angular2-cookie](https://github.com/salemdar/angular2-cookie) - Implementation of Angular 1.x $cookies service to Angular 2.
+
+###### Routing
+
+ - [ng2-breadcrumb](https://github.com/gmostert/ng2-breadcrumb) - This is an angular 2 component that creates a breadcrumb trail. It hooks into the angular2/router, to dynamically build up the crumb trail once a component is routed to.
 
 ###### Clipboard
 
