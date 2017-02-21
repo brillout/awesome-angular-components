@@ -464,6 +464,7 @@
  - [meteor-rxjs](https://github.com/Urigo/mongo-rxjs-observable) - Exposing Mongo Cursor as RxJS Observable.
  - [wp-api-angular](https://github.com/shprink/wp-api-angular) - Angular (>=2) services for WordPress WP-API(v2) or WP >= 4.7 (natively supports WP-API).
  - [selfbits-angular2-sdk](https://github.com/selfbits/selfbits-angular2-sdk) - Angular 2 SDK for Selfbits Backend-as-a-Service.
+ - [ng2-wp-api](https://github.com/MurhafSousli/ng2-wp-api) - Angular WordPress Module.
 
 
 
