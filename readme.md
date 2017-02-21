@@ -397,6 +397,7 @@
 *Utilities to help create HTML forms*
 
  - [angular2-schema-form](https://github.com/makinacorpus/angular2-schema-form) - Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form).
+ - [ng-formly](https://github.com/formly-js/ng-formly) - JavaScript powered FORMS for ANGULAR 2.x and above.
 
 ###### Cookie
 
