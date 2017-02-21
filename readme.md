@@ -246,7 +246,7 @@
 ###### Drag and Drop
 
  - [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Simple drag and drop with dragula.
- - [ng2-dnd-loudandwicked](https://github.com/akserg/ng2-dnd) - Angular 2 Drag-and-Drop without dependencies.
+ - [ng2-dnd](https://github.com/akserg/ng2-dnd) - Angular 2 Drag-and-Drop without dependencies.
 
 ###### Masked Input
 
@@ -328,7 +328,7 @@
  - [@angular/material](https://github.com/angular/material2) - Official Material Design components for Angular.
  - [primeng](https://github.com/primefaces/primeng) - UI Components for Angular 2.
  - [ng-lightning](https://github.com/ng-lightning/ng-lightning) - Native Angular 2 components & directives for Lightning Design System.
- - [angular2-mdl-miracle](https://github.com/mseemann/angular2-mdl) - Angular 2 components, directives and styles based on material design lite.
+ - [angular2-mdl](https://github.com/mseemann/angular2-mdl) - Angular 2 components, directives and styles based on material design lite.
  - [fuel-ui](https://github.com/FuelInteractive/fuel-ui) - UI Components for use with Angular2 and Bootstrap4.
  - [igniteui-angular2](https://github.com/IgniteUI/igniteui-angular2) - Ignite UI directives for Angular 2.
  - [md2](https://github.com/Promact/md2) - Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip.
