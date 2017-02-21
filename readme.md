@@ -93,6 +93,7 @@
  - [@ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular.
  - [angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular 2. It features both regular page notifications (toasts) and push notifications.
  - [angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular 2+ application.
+ - [ng2-toastr](https://github.com/PointInside/ng2-toastr) - Bootstrap style toast for modern angular (v2.0.0 and above).
 
 ###### Popover
 
