@@ -331,6 +331,7 @@
 
  - [angular2-localstorage](https://github.com/marcj/angular2-localstorage) - Angular2 decorator to save and restore variables/class properties to HTML5 LocalStorage automatically.
  - [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) - Localstorage and sessionstorage manager - angular2 service.
+ - [angular-safeguard](https://github.com/MikaAK/angular-safeguard) - Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
 
 ###### Scroll
 
