@@ -12,38 +12,39 @@
     - [Overlay](#overlay)
     - [Notification](#notification)
     - [Popover](#popover)
-    - [Menu](#menu)
-    - [Loading / Progress Indicators](#loading--progress-indicators)
     - [Table](#table)
     - [Tree](#tree)
-    - [Time](#time)
+    - [Loading / Progress Indicators](#loading--progress-indicators)
+    - [Menu](#menu)
     - [Charts](#charts)
     - [Map](#map)
     - [Infinite Scroll](#infinite-scroll)
     - [Parallax](#parallax)
     - [Scrollbar](#scrollbar)
     - [Slider / Carousel](#slider--carousel)
-    - [Stick](#sticky)
+    - [Sticky](#sticky)
+    - [Time](#time)
     - [Audio / Video](#audio--video)
     - [SVG](#svg)
-    - [PDF](#pdf)
     - [Social Sharing](#social-sharing)
+    - [PDF](#pdf)
     - [Form](#form)
+          - [Date Picker](#date-picker)
+          - [Color Picker](#color-picker)
           - [Select](#select)
           - [Autocomplete](#autocomplete)
           - [Type Select](#type-select)
-          - [Date Picker](#date-picker)
-          - [Color Picker](#color-picker)
           - [Drag and Drop](#drag-and-drop)
           - [Masked Input](#masked-input)
-          - [Calendar](#calendar)
           - [Rich Text Editor](#rich-text-editor)
           - [File Upload](#file-upload)
           - [Autosize Input / Textarea](#autosize-input--textarea)
+          - [Calendar](#calendar)
           - [Image Editing](#image-editing)
 - [UI Layout](#ui-layout)
-- [UI Frameworks](#ui-frameworks)
     - [Responsive](#responsive)
+- [UI Frameworks](#ui-frameworks)
+    - [Responsive](#responsive-1)
     - [Mobile](#mobile)
     - [Component Collections](#component-collections)
     - [Admin Panel](#admin-panel)
@@ -53,23 +54,23 @@
 - [Code Style](#code-style)
 - [Utilities](#utilities)
     - [Pipes](#pipes)
-    - [Meta Tags](#meta-tags)
-    - [Persistence](#persistence)
-    - [Scroll](#scroll)
-    - [Validation](#validation)
+    - [Form](#form-1)
     - [API](#api)
     - [Authentication](#authentication)
-    - [Responsive Design](#responsive-design)
     - [Event Handling](#event-handling)
-    - [i18n](#i18n)
-    - [Pagination](#pagination)
-    - [Angular 1 -> Angular 2 Migration](#angular-1---anuglar-2-migration)
-    - [Asset management](#asset-management)
-    - [Form](#form-1)
+    - [Scroll](#scroll)
+    - [Responsive Design](#responsive-design)
+    - [Persistence](#persistence)
     - [Cookie](#cookie)
     - [Routing](#routing)
-    - [Clipboard](#clipboard)
+    - [Pagination](#pagination)
+    - [Validation](#validation)
+    - [i18n](#i18n)
     - [Logging](#logging)
+    - [Asset management](#asset-management)
+    - [Meta Tags](#meta-tags)
+    - [Clipboard](#clipboard)
+    - [Angular 1 -> Angular 2 Migration](#angular-1---anuglar-2-migration)
     - [Documentation](#documentation)
     - [IoT](#iot)
 - [Performance](#performance)
@@ -111,20 +112,6 @@
 
  - [angular-confirmation-popover](https://github.com/mattlewis92/angular-bootstrap-confirm) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
 
-###### Menu
-
-*Menu / sidebar*
-
- - [ng-sidebar](https://github.com/arkon/ng-sidebar) - Angular 2+ sidebar component.
-
-###### Loading / Progress Indicators
-
-*Let the user know that something is being loaded*
-
- - [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
- - [angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
- - [angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module.
-
 ###### Table
 
 *Table / Data Grid — Display (large) datasets*
@@ -144,11 +131,19 @@
  - [angular2-tree-component](https://github.com/500tech/angular2-tree-component) - A simple yet powerful tree component for Angular2.
  - [ng2-tree](https://github.com/valor-software/ng2-tree) - Angular2 component for visualizing data that can be naturally represented as a tree.
 
-###### Time
+###### Loading / Progress Indicators
 
-*Display time / date / age*
+*Let the user know that something is being loaded*
 
- - [angular2-moment](https://github.com/urish/angular2-moment) - Moment.js pipes for Angular2.
+ - [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
+ - [angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
+ - [angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module.
+
+###### Menu
+
+*Menu / sidebar*
+
+ - [ng-sidebar](https://github.com/arkon/ng-sidebar) - Angular 2+ sidebar component.
 
 ###### Charts
 
@@ -188,6 +183,12 @@
 
  - [ng2-sticky](https://github.com/ng2-ui/ng2-sticky) - Angular2 "position: sticky" implementation as a directive.
 
+###### Time
+
+*Display time / date / age*
+
+ - [angular2-moment](https://github.com/urish/angular2-moment) - Moment.js pipes for Angular2.
+
 ###### Audio / Video
 
  - [videogular2](https://github.com/videogular/videogular2) - The HTML5 video player for Angular 2.
@@ -196,13 +197,13 @@
 
  - [ng-inline-svg](https://github.com/arkon/ng-inline-svg) - Angular 2+ directive for inserting an SVG file inline within an element.
 
-###### PDF
-
- - [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - PDF Viewer Component for Angular 2.
-
 ###### Social Sharing
 
  - [ng2-sharebuttons](https://github.com/MurhafSousli/ng2-sharebuttons)
+
+###### PDF
+
+ - [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - PDF Viewer Component for Angular 2.
 
 
 
@@ -211,6 +212,18 @@
 ### Form
 
 *Let the user create & edit data*
+
+###### Date Picker
+
+*Time Picker / Datetime Picker*
+
+ - [ng2-datepicker](https://github.com/jkuri/ng2-datepicker) - Angular2 Datepicker Component.
+ - [mydatepicker](https://github.com/kekeh/mydatepicker) - Angular2 date picker.
+ - [ng2-datetime](https://github.com/nkalinov/ng2-datetime) - Datetime picker plugins wrapper for Angular2.
+
+###### Color Picker
+
+ - [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for Angular 2+.
 
 ###### Select
 
@@ -230,18 +243,6 @@
 
  - [ng2-tag-input](https://github.com/Gbuomprisco/ng2-tag-input) - Tag Input for Angular.
 
-###### Date Picker
-
-*Time Picker / Datetime Picker*
-
- - [ng2-datepicker](https://github.com/jkuri/ng2-datepicker) - Angular2 Datepicker Component.
- - [mydatepicker](https://github.com/kekeh/mydatepicker) - Angular2 date picker.
- - [ng2-datetime](https://github.com/nkalinov/ng2-datetime) - Datetime picker plugins wrapper for Angular2.
-
-###### Color Picker
-
- - [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for Angular 2+.
-
 ###### Drag and Drop
 
  - [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Simple drag and drop with dragula.
@@ -250,12 +251,6 @@
 ###### Masked Input
 
  - [angular2-text-mask](https://github.com/text-mask/text-mask) - Input mask for React, Angular, Ember, Vue, & plain JavaScript.
-
-###### Calendar
-
-*Show & edit events in a calendar view*
-
- - [angular2-calendar](https://github.com/mattlewis92/angular2-calendar) - A flexible calendar component for angular 2.0+ that can display events on a month, week or day view.
 
 ###### Rich Text Editor
 
@@ -272,6 +267,12 @@
 ###### Autosize Input / Textarea
 
  - [angular2-autosize](https://github.com/stevepapa/angular2-autosize) - Angular2-autosize is an Angular2 directive that automatically adjusts textarea height to fit content.
+
+###### Calendar
+
+*Show & edit events in a calendar view*
+
+ - [angular2-calendar](https://github.com/mattlewis92/angular2-calendar) - A flexible calendar component for angular 2.0+ that can display events on a month, week or day view.
 
 ###### Image Editing
 
@@ -386,26 +387,12 @@
  - [ng-pipes](https://github.com/a8m/ng-pipes) - Bunch of useful pipes for Angular2 (with no external dependencies!).
  - [angular2-linky](https://github.com/dzonatan/angular2-linky) - Linky pipe for angular2.
 
-###### Meta Tags
+###### Form
 
- - [ng2-meta](https://github.com/vinaygopinath/ng2-meta) - Dynamic meta tags and SEO in Angular2.
- - [ng2-metadata](https://github.com/fulls1z3/ng2-metadata) - Dynamic page title & meta tags generator for Angular2.
+*Utilities to help create HTML forms*
 
-###### Persistence
-
- - [angular2-localstorage](https://github.com/marcj/angular2-localstorage) - Angular2 decorator to save and restore variables/class properties to HTML5 LocalStorage automatically.
- - [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) - Localstorage and sessionstorage manager - angular2 service.
- - [angular-safeguard](https://github.com/MikaAK/angular-safeguard) - Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
-
-###### Scroll
-
- - [ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll) - Animated scrolling functionality written in pure angular2.
- - [ng2-scrollable](https://github.com/ng2-ui/ng2-scrollable) - Angular2 Automatic Scroll Detection With Animation.
-
-###### Validation
-
- - [ng-validators](https://github.com/gangachris/ng-validators) - A List of validators for Angular 2+ Forms based on validator.js.
- - [ng2-validation](https://github.com/yuyang041060120/angular2-validate) - Angular2 validation.
+ - [angular2-schema-form](https://github.com/makinacorpus/angular2-schema-form) - Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form).
+ - [ng-formly](https://github.com/formly-js/ng-formly) - JavaScript powered FORMS for ANGULAR 2.x and above.
 
 ###### API
 
@@ -424,46 +411,24 @@
  - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
  - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2.
 
-###### Responsive Design
-
- - [responsive-directives-angular2](https://github.com/ManuCutillas/responsive-directives-angular2) - Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2.
-
 ###### Event Handling
 
  - [ng-click-outside](https://github.com/arkon/ng-click-outside) - Angular 2+ directive for handling click events outside of an element.
 
-###### i18n
+###### Scroll
 
-*Internationalization / L10n / localization / translation*
+ - [ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll) - Animated scrolling functionality written in pure angular2.
+ - [ng2-scrollable](https://github.com/ng2-ui/ng2-scrollable) - Angular2 Automatic Scroll Detection With Animation.
 
- - [@ngx-translate/core](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular 2+.
- - [angular-l10n](https://github.com/robisim74/angular-l10n) - An Angular 2 library to translate messages, dates and numbers.
+###### Responsive Design
 
-###### Pagination
+ - [responsive-directives-angular2](https://github.com/ManuCutillas/responsive-directives-angular2) - Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2.
 
- - [ng2-pagination](https://github.com/michaelbromley/ng2-pagination) - Pagination for Angular.
+###### Persistence
 
-###### Angular 1 -> Angular 2 Migration
-
- - [ng-metadata](https://github.com/ngParty/ng-metadata) - Angular 2 decorators and utils for Angular 1.x.
- - [angular2-now](https://github.com/pbastowski/angular2-now) - Angular 2 @Component syntax for Angular 1 apps.
-
-###### Asset management
-
-*Utilities for building / bundling / loading assets*
-
- - [plugin-typescript](https://github.com/frankwallis/plugin-typescript) - TypeScript loader for SystemJS.
- - [gulp-inline-ng2-template](https://github.com/ludohenin/gulp-inline-ng2-template) - Gulp plugin to inline HTML and CSS into Angular 2 component decorators.
- - [angular2-template-loader](https://github.com/TheLarkInn/angular2-template-loader) - Chain-to loader for webpack that inlines all html and style's in angular2 components.
- - [angular-router-loader](https://github.com/brandonroberts/angular-router-loader) - A Webpack loader that enables string-based module loading with the Angular Router.
- - [angular2-hot-loader](https://github.com/mgechev/angular2-hot-loader) - Angular 2 hot loader.
-
-###### Form
-
-*Utilities to help create HTML forms*
-
- - [angular2-schema-form](https://github.com/makinacorpus/angular2-schema-form) - Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form).
- - [ng-formly](https://github.com/formly-js/ng-formly) - JavaScript powered FORMS for ANGULAR 2.x and above.
+ - [angular2-localstorage](https://github.com/marcj/angular2-localstorage) - Angular2 decorator to save and restore variables/class properties to HTML5 LocalStorage automatically.
+ - [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) - Localstorage and sessionstorage manager - angular2 service.
+ - [angular-safeguard](https://github.com/MikaAK/angular-safeguard) - Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
 
 ###### Cookie
 
@@ -475,16 +440,52 @@
 
  - [ng2-breadcrumb](https://github.com/gmostert/ng2-breadcrumb) - This is an angular 2 component that creates a breadcrumb trail. It hooks into the angular2/router, to dynamically build up the crumb trail once a component is routed to.
 
+###### Pagination
+
+ - [ng2-pagination](https://github.com/michaelbromley/ng2-pagination) - Pagination for Angular.
+
+###### Validation
+
+ - [ng-validators](https://github.com/gangachris/ng-validators) - A List of validators for Angular 2+ Forms based on validator.js.
+ - [ng2-validation](https://github.com/yuyang041060120/angular2-validate) - Angular2 validation.
+
+###### i18n
+
+*Internationalization / L10n / localization / translation*
+
+ - [@ngx-translate/core](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular 2+.
+ - [angular-l10n](https://github.com/robisim74/angular-l10n) - An Angular 2 library to translate messages, dates and numbers.
+
+###### Logging
+
+ - [angular2-logger](https://github.com/code-chunks/angular2-logger) - A log4j inspired logger for angular 2.
+ - [@nsalaun/ng2-logger](https://github.com/noemi-salaun/ng2-logger) - Angular 2 logger service.
+
+###### Asset management
+
+*Utilities for building / bundling / loading assets*
+
+ - [plugin-typescript](https://github.com/frankwallis/plugin-typescript) - TypeScript loader for SystemJS.
+ - [gulp-inline-ng2-template](https://github.com/ludohenin/gulp-inline-ng2-template) - Gulp plugin to inline HTML and CSS into Angular 2 component decorators.
+ - [angular2-template-loader](https://github.com/TheLarkInn/angular2-template-loader) - Chain-to loader for webpack that inlines all html and style's in angular2 components.
+ - [angular-router-loader](https://github.com/brandonroberts/angular-router-loader) - A Webpack loader that enables string-based module loading with the Angular Router.
+ - [angular2-hot-loader](https://github.com/mgechev/angular2-hot-loader) - Angular 2 hot loader.
+
+###### Meta Tags
+
+ - [ng2-meta](https://github.com/vinaygopinath/ng2-meta) - Dynamic meta tags and SEO in Angular2.
+ - [ng2-metadata](https://github.com/fulls1z3/ng2-metadata) - Dynamic page title & meta tags generator for Angular2.
+
 ###### Clipboard
 
 *Copy & paste text to clipboard*
 
  - [ngx-clipboard](https://github.com/maxisam/ngx-clipboard) - A wrapper directive for clipboard.js.
 
-###### Logging
+###### Angular 1 -> Angular 2 Migration
 
- - [angular2-logger](https://github.com/code-chunks/angular2-logger) - A log4j inspired logger for angular 2.
- - [@nsalaun/ng2-logger](https://github.com/noemi-salaun/ng2-logger) - Angular 2 logger service.
+ - [ng-metadata](https://github.com/ngParty/ng-metadata) - Angular 2 decorators and utils for Angular 1.x.
+ - [angular2-now](https://github.com/pbastowski/angular2-now) - Angular 2 @Component syntax for Angular 1 apps.
 
 ###### Documentation
 
