@@ -335,6 +335,7 @@
 ###### Scroll
 
  - [ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll) - Animated scrolling functionality written in pure angular2.
+ - [ng2-scrollable](https://github.com/ng2-ui/ng2-scrollable) - Angular2 Automatic Scroll Detection With Animation.
 
 ###### Validation
 
