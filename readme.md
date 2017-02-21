@@ -478,6 +478,7 @@
 
  - [@compodoc/ngd-cli](https://github.com/compodoc/ngd) - View the dependencies tree of you Angular2 application.
  - [angular-playground](https://github.com/SoCreate/angular-playground) - A drop in app module for working on Angular components in isolation (Angular version 2.x and above).
+ - [@ngrx/store-devtools](https://github.com/ngrx/store-devtools) - Developer Tools for @ngrx/store.
 
 
 
