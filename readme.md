@@ -212,6 +212,7 @@
 ###### Rich Text Editor
 
  - [ng2-ckeditor-codemirror](https://github.com/chymz/ng2-ckeditor) - Angular2 CKEditor component.
+ - [angular2-voog-wysihtml](https://github.com/zefoy/ngx-voog-wysihtml) - Voog wysihtml wrapper for Angular 2.
 
 ###### File Upload
 
