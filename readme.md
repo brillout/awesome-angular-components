@@ -213,6 +213,7 @@
 
  - [ng2-ckeditor-codemirror](https://github.com/chymz/ng2-ckeditor) - Angular2 CKEditor component.
  - [angular2-voog-wysihtml](https://github.com/zefoy/ngx-voog-wysihtml) - Voog wysihtml wrapper for Angular 2.
+ - [angular2-froala-wysiwyg](https://github.com/froala/angular2-froala-wysiwyg) - AngularJS2 bindings for Froala WYSIWYG HTML Rich Text Editor.
 
 ###### File Upload
 
