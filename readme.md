@@ -415,6 +415,7 @@
 ###### Logging
 
  - [angular2-logger](https://github.com/code-chunks/angular2-logger) - A log4j inspired logger for angular 2.
+ - [@nsalaun/ng2-logger](https://github.com/noemi-salaun/ng2-logger) - Angular 2 logger service.
 
 ###### Documentation
 
