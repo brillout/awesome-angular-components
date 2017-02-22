@@ -177,7 +177,9 @@
 
  - [angular2-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar) - Angular 2 wrapper library for perfect scrollbar.
 
-###### Slider / Carousel
+###### Carousel
+
+*Carousel / touch slider / swiper*
 
 - [angular2-swiper-wrapper](https://github.com/zefoy/ngx-swiper-wrapper) - Angular 2 wrapper library for swiper.
 
@@ -244,6 +246,8 @@
  - [ng2-slider-component](https://github.com/Bogdan1975/ng2-slider-component) - Angular 2 slider component.
 
 ###### Select
+
+*Let the user choose from a list of options*
 
  - [ng2-select](https://github.com/valor-software/ng2-select) - Angular2 based replacement for select boxes.
  - [angular2-select](https://github.com/basvandenberg/angular2-select) - A native angular 2 select component (based on select2).
