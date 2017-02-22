@@ -36,6 +36,7 @@
           - [Autocomplete](#autocomplete)
           - [Type Select](#type-select)
           - [Drag and Drop](#drag-and-drop)
+          - [Sortable List](#sortable-list)
           - [Masked Input](#masked-input)
           - [Rich Text Editor](#rich-text-editor)
           - [File Upload](#file-upload)
@@ -250,6 +251,12 @@
 
  - [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Simple drag and drop with dragula.
  - [ng2-dnd](https://github.com/akserg/ng2-dnd) - Angular 2 Drag-and-Drop without dependencies.
+
+###### Sortable List
+
+*Let the user define an order on a list*
+
+ - [angular-sortablejs](https://github.com/SortableJS/angular-sortablejs) - A Angular 2+ binding to SortableJS.
 
 ###### Masked Input
 
