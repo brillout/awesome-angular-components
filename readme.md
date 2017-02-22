@@ -218,7 +218,7 @@
 
  - [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - PDF Viewer Component for Angular 2.
 
-###### [Miscellaneous](#miscellaneous)
+###### Miscellaneous
 
  - [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) - Native UI Inline-editor Angular2 component.
 
