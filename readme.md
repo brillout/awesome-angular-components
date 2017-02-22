@@ -201,7 +201,7 @@
 
 ###### Social Sharing
 
- - [ng2-sharebuttons](https://github.com/MurhafSousli/ng2-sharebuttons)
+ - [ng2-sharebuttons](https://github.com/MurhafSousli/ng2-sharebuttons) - Share buttons for angular.
 
 ###### PDF
 
