@@ -33,6 +33,7 @@
     - [Form](#form)
           - [Date Picker](#date-picker)
           - [Color Picker](#color-picker)
+          - [Slider](#slider)
           - [Select](#select)
           - [Autocomplete](#autocomplete)
           - [Type Select](#type-select)
@@ -235,6 +236,12 @@
 ###### Color Picker
 
  - [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for Angular 2+.
+
+###### Slider
+
+*Let the user choose a value from a given range*
+
+ - [ng2-slider-component](https://github.com/Bogdan1975/ng2-slider-component) - Angular 2 slider component.
 
 ###### Select
 
