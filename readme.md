@@ -405,7 +405,7 @@
 
 *Improve readability of the source code*
 
- - [codelyzer-cli](https://github.com/mgechev/codelyzer) - Linting for Angular projects.
+ - [codelyzer](https://github.com/mgechev/codelyzer) - Linting for Angular projects.
  - [babel-plugin-angular2-annotations](https://github.com/shuhei/babel-plugin-angular2-annotations) - A babel transformer plugin for Angular 2 annotations.
  - [redux-decorators](https://github.com/KarlPurk/redux-decorators) - A ridiculously good syntax for working with Redux using decorators in ES7 / TypeScript. Currently limited to Angular 2 but could potentially be used elsewhere.
 
