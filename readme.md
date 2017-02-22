@@ -23,6 +23,7 @@
     - [Scrollbar](#scrollbar)
     - [Slider / Carousel](#slider--carousel)
     - [Sticky](#sticky)
+    - [Context Menu](#context-menu)
     - [Time](#time)
     - [Audio / Video](#audio--video)
     - [SVG](#svg)
@@ -205,7 +206,9 @@
 
  - [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - PDF Viewer Component for Angular 2.
 
+###### Context Menu
 
+ - [angular2-contextmenu](https://github.com/isaacplmann/angular2-contextmenu) - A context menu built with Angular 2 inspired by ui.bootstrap.contextMenu.
 
 
 
