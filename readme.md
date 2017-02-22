@@ -21,7 +21,7 @@
     - [Infinite Scroll](#infinite-scroll)
     - [Parallax](#parallax)
     - [Scrollbar](#scrollbar)
-    - [Slider / Carousel](#slider--carousel)
+    - [Carousel](#carousel)
     - [Sticky](#sticky)
     - [Context Menu](#context-menu)
     - [Time](#time)
