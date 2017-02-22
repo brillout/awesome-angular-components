@@ -100,7 +100,7 @@
  - [angular2-toaster](https://github.com/stabzs/Angular2-Toaster) - Angular2-toaster is an asynchronous, non-blocking Angular2 Toaster Notification library.
  - [ng2-toasty](https://github.com/akserg/ng2-toasty) - Angular2 Toasty component shows growl-style alerts and messages for your app.
  - [ng2-notifications](https://github.com/alexcastillo/ng2-notifications) - Angular 2 Component for Native Push Notifications.
- - [toastr-ng2](https://github.com/scttcper/toastr-ng2) - Angular 2 toastr.
+ - [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Angular 2 toastr.
  - [@ngrx/notify](https://github.com/ngrx/notify) - Web Notifications Powered by RxJS for Angular.
  - [angular2-notifications](https://github.com/flauc/angular2-notifications) - A light and easy to use notifications library for Angular 2. It features both regular page notifications (toasts) and push notifications.
  - [angular-notifier](https://github.com/dominique-mueller/angular-notifier) - A well designed, fully animated, highly customizable, and easy-to-use notification library for your Angular 2+ application.
