@@ -573,6 +573,7 @@
  - [ng2-recaptcha](https://github.com/dethariel/ng2-recaptcha) - Angular 2 component for Google reCAPTCHA.
  - [angular2-recaptcha](https://github.com/xmaestro/angular2-recaptcha) - Angular 2 : Typescript component for Google reCaptcha.
  - [pubnub-angular2](https://github.com/pubnub/pubnub-angular2) - Official PubNub Angular2.
+ - [ng2-awesome-disqus](https://github.com/MurhafSousli/ng2-disqus) - Disqus for Angular.
 
 
 
