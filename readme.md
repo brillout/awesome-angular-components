@@ -572,6 +572,7 @@
  - [angular-playground](https://github.com/SoCreate/angular-playground) - A drop in app module for working on Angular components in isolation (Angular version 2.x and above).
  - [@ngrx/store-devtools](https://github.com/ngrx/store-devtools) - Developer Tools for @ngrx/store.
  - [angular2-prettyjson](https://github.com/matiboy/angular2-prettyjson) - Angular 2 debug output of objects. Contains a pipe similar to JsonPipe but adds support for spacing and handling of circular structures.
+ - [Augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome.
 
 
 
