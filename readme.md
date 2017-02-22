@@ -29,6 +29,7 @@
     - [SVG](#svg)
     - [Social Sharing](#social-sharing)
     - [PDF](#pdf)
+    - [Miscellaneous](#miscellaneous)
     - [Form](#form)
           - [Date Picker](#date-picker)
           - [Color Picker](#color-picker)
@@ -185,6 +186,10 @@
 
  - [ng2-sticky](https://github.com/ng2-ui/ng2-sticky) - Angular2 "position: sticky" implementation as a directive.
 
+###### Context Menu
+
+ - [angular2-contextmenu](https://github.com/isaacplmann/angular2-contextmenu) - A context menu built with Angular 2 inspired by ui.bootstrap.contextMenu.
+
 ###### Time
 
 *Display time / date / age*
@@ -207,9 +212,11 @@
 
  - [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - PDF Viewer Component for Angular 2.
 
-###### Context Menu
+###### [Miscellaneous](#miscellaneous)
 
- - [angular2-contextmenu](https://github.com/isaacplmann/angular2-contextmenu) - A context menu built with Angular 2 inspired by ui.bootstrap.contextMenu.
+ - [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) - Native UI Inline-editor Angular2 component.
+
+
 
 
 
