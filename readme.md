@@ -235,6 +235,7 @@
  - [ng2-datepicker](https://github.com/jkuri/ng2-datepicker) - Angular2 Datepicker Component.
  - [mydatepicker](https://github.com/kekeh/mydatepicker) - Angular2 date picker.
  - [ng2-datetime](https://github.com/nkalinov/ng2-datetime) - Datetime picker plugins wrapper for Angular2.
+ - [ng2-date-picker](https://github.com/vlio20/ng2-date-picker) - Highly configurable date picker built for Angular 2 applications.
 
 ###### Color Picker
 
