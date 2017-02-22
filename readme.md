@@ -240,6 +240,7 @@
 
  - [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for Angular 2+.
  - [angular2-color-picker](https://github.com/Alberplz/angular2-color-picker) - Angular 2 Color Picker Directive, no dependences required.
+ - [ng2-color-picker](https://github.com/AndyMeps/ng2-color-picker) - Simple color picker for Angular 2.
 
 ###### Slider
 
