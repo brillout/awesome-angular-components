@@ -422,7 +422,7 @@
 
 ###### Responsive Design
 
- - [responsive-directives-angular2](https://github.com/ManuCutillas/responsive-directives-angular2) - Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2.
+ - [ng2-responsive](https://github.com/ManuCutillas/ng2-responsive) - Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2.
 
 ###### Persistence
 
