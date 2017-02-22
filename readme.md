@@ -221,6 +221,7 @@
 ###### Miscellaneous
 
  - [ng2-inline-editor](https://github.com/caballerog/ng2-inline-editor) - Native UI Inline-editor Angular2 component.
+ - [ng2-markdown-to-html](https://github.com/jfcere/ng2-markdown-to-html) - Angular 2 markdown component/directive to parse static or remote content to html.
 
 
 
