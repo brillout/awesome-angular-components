@@ -142,6 +142,7 @@
  - [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) - Angular 2 component shows slim loading bar at the top of the page.
  - [angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
  - [angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module.
+ - [ng-spin-kit](https://github.com/WoltersKluwerPL/ng-spin-kit) - SpinKit ( spinners for Angular 2+.
 
 ###### Menu
 
