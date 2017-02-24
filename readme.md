@@ -114,7 +114,7 @@
 
 *Show a little dialog next to an element*
 
- - [angular-confirmation-popover](https://github.com/mattlewis92/angular-bootstrap-confirm) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
+ - [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
 
 ###### Table
 
