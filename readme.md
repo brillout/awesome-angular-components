@@ -77,7 +77,6 @@
     - [Angular 1 -> Angular 2 Migration](#angular-1---anuglar-2-migration)
     - [Documentation](#documentation)
     - [Product Tour](#product-tour)
-    - [Miscellaneous](#miscellaneous-1)
 - [Performance](#performance)
     - [Lazy Load](#lazy-load)
 - [Integrations](#integrations)
