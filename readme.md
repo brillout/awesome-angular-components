@@ -76,12 +76,14 @@
     - [Clipboard](#clipboard)
     - [Angular 1 -> Angular 2 Migration](#angular-1---anuglar-2-migration)
     - [Documentation](#documentation)
-    - [IoT](#iot)
+    - [Product Tour](#product-tour)
+    - [Miscellaneous](#miscellaneous-1)
 - [Performance](#performance)
     - [Lazy Load](#lazy-load)
 - [Integrations](#integrations)
 - [Dev Tools](#dev-tools)
 - [Starter Kit](#starter-kit)
+
 
 <br/>
 <br/>
@@ -536,7 +538,9 @@
  - [angular2-iot](https://github.com/urish/angular2-iot) - Internet of Things directives for Angular 2 (Led, Button, etc.).
  - [@manekinekko/angular-web-bluetooth](https://github.com/manekinekko/angular-web-bluetooth) - The missing Web Bluetooth module for Angular (>=2).
 
+###### Product Tour
 
+ - [ng2-tour](https://github.com/isaacplmann/ng2-tour) - Product Tour.
 
 
 
