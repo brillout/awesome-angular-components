@@ -23,6 +23,7 @@
     - [Scrollbar](#scrollbar)
     - [Carousel](#carousel)
     - [Sticky](#sticky)
+    - [Scrollspy](#scrollspy)
     - [Context Menu](#context-menu)
     - [Time](#time)
     - [Audio / Video](#audio--video)
@@ -192,6 +193,10 @@
 *Implementations similar to `position: sticky`*
 
  - [ng2-sticky](https://github.com/ng2-ui/ng2-sticky) - Angular2 "position: sticky" implementation as a directive.
+ 
+###### Scrollspy
+
+ - [ng2-scrollspy](https://github.com/JonnyBGod/ng2-scrollspy) - Angular2 ScrollSpy Service.
 
 ###### Context Menu
 
