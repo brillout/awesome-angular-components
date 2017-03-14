@@ -628,4 +628,5 @@
  - [angular-seed](https://github.com/mgechev/angular-seed) - Extensible, reliable and modular starter project for Angular 2 (and beyond) with statically typed build and AoT compilation.
  - [clarity-seed](https://github.com/vmware/clarity-seed) - This is a repository for a seed project that includes Clarity Design System's dependencies.
  - [Angular 2 Webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
+ - [colmena-cms](https://github.com/colmena/colmena-cms) - Free and Open Source API and Admin powered by LoopBack and Angular.
 
