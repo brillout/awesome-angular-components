@@ -23,7 +23,6 @@
     - [Scrollbar](#scrollbar)
     - [Carousel](#carousel)
     - [Sticky](#sticky)
-    - [Scrollspy](#scrollspy)
     - [Context Menu](#context-menu)
     - [Time](#time)
     - [Audio / Video](#audio--video)
@@ -193,10 +192,6 @@
 *Implementations similar to `position: sticky`*
 
  - [ng2-sticky](https://github.com/ng2-ui/ng2-sticky) - Angular2 "position: sticky" implementation as a directive.
- 
-###### Scrollspy
-
- - [ng2-scrollspy](https://github.com/JonnyBGod/ng2-scrollspy) - Angular2 ScrollSpy Service.
 
 ###### Context Menu
 
@@ -466,6 +461,7 @@
 
  - [ng2-page-scroll](https://github.com/Nolanus/ng2-page-scroll) - Animated scrolling functionality written in pure angular2.
  - [ng2-scrollable](https://github.com/ng2-ui/ng2-scrollable) - Angular2 Automatic Scroll Detection With Animation.
+ - [ng2-scrollspy](https://github.com/JonnyBGod/ng2-scrollspy) - Angular2 ScrollSpy Service.
 
 ###### Responsive Design
 
