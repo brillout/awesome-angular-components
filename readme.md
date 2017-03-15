@@ -517,6 +517,8 @@
 
 ###### Meta Tags
 
+*Set meta tags, <title>, children of <head>*
+
  - [ng2-meta](https://github.com/vinaygopinath/ng2-meta) - Dynamic meta tags and SEO in Angular2.
  - [ng2-metadata](https://github.com/fulls1z3/ng2-metadata) - Dynamic page title & meta tags generator for Angular2.
 
