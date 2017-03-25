@@ -317,7 +317,7 @@
 *Image manipulation*
 
 - [ng2-img-cropper](https://github.com/cstefanache/angular2-img-cropper) - Angular 2 Image Cropper.
-
+- [ng2-img-tools](https://github.com/bergben/ng2-img-tools) - Image resizing / cropping / compression.
 
 
 
