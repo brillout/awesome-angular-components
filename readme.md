@@ -191,7 +191,7 @@
 
 *Implementations similar to `position: sticky`*
 
- - [ng2-sticky](https://github.com/ng2-ui/ng2-sticky) - Angular2 "position: sticky" implementation as a directive.
+ - [@ngui/sticky](https://github.com/ng2-ui/sticky) - Angular2 "position: sticky" implementation as a directive.
 
 ###### Context Menu
 
