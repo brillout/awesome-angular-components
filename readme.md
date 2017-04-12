@@ -311,6 +311,7 @@
 *Show & edit events in a calendar view*
 
  - [angular2-calendar](https://github.com/mattlewis92/angular2-calendar) - A flexible calendar component for angular 2.0+ that can display events on a month, week or day view.
+ - [angular2-fullcalendar](https://github.com/nekken/ng2-fullcalendar) - An Angular 2 component for fullcalendar.
 
 ###### Image Editing
 
