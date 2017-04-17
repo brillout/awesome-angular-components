@@ -447,7 +447,7 @@
  - [ng2-resource-rest](https://github.com/troyanskiy/ng2-resource-rest) - Resource (REST) Client for Angular 2.
  - [angular2-jsonapi](https://github.com/ghidoz/angular2-jsonapi) - A lightweight Angular 2 adapter for JSON API.
  - [ng2-rest-api](https://github.com/zaqqaz/ng2-rest-api) - Rest API provider for angular 2.
- - [ng2-restangular](https://github.com/2muchcoffeecom/ng2-restangular) - Restangular for Angular 2 and higher versions.
+ - [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2+ and higher versions.
 
 ###### Authentication
 
