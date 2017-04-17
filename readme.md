@@ -167,7 +167,7 @@
 
 ###### Infinite Scroll
 
- - [angular2-infinite-scroll](https://github.com/orizens/angular2-infinite-scroll) - Infinite Scroll Directive for angular 2.
+ - [ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll) - Infinite Scroll Directive for angular 2.
 
 ###### Parallax
 
@@ -333,6 +333,7 @@
  - [angular2-grid](https://github.com/BTMorton/angular2-grid) - A grid-based drag/drop/resize directive plugin for Angular 2.
  - [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) - Angular 2 fullpage scrolling.
  - [angular-split](https://github.com/bertrandg/angular-split) - Angular (2+) UI library to split views.
+ - [ngresizable](https://github.com/mgechev/ngresizable) - Simple, tree-shakable, AoT, Universal and Web Worker friendly resizable component for Angular
 
 ###### Responsive
 
@@ -436,7 +437,7 @@
 
  - [angular2-schema-form](https://github.com/makinacorpus/angular2-schema-form) - Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form).
  - [ng-formly](https://github.com/formly-js/ng-formly) - JavaScript powered FORMS for ANGULAR 2.x and above.
- - [@ultimate/ngerrors](https://github.com/UltimateAngular/ngerrors) - A declarative validation module for reactive forms.
+ - [@ultimate/ngxerrors](https://github.com/UltimateAngular/ngxerrors) - A declarative validation module for reactive forms.
 
 ###### API
 
