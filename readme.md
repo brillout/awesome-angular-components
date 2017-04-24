@@ -52,6 +52,7 @@
     - [Component Collections](#component-collections)
     - [Mobile](#mobile)
     - [Admin Panel](#admin-panel)
+- [Isomorphic Apps](#isomorphic-apps)
 - [Code Structure](#code-structure)
     - [Data Management](#data-management)
     - [Communication with Server](#communication-with-server)
@@ -386,7 +387,10 @@
  - [ng2-admin](https://github.com/akveo/ng2-admin) - Angular 2 admin dashboard framework.
 
 
+# Isomorphic Apps
+*Server-side rendering*
 
+ - [angular-ssr](https://github.com/clbond/angular-ssr) - Angular 4+ server-side rendering solution
 
 
 
