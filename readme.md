@@ -2,7 +2,7 @@
 
 # Angular 2+ Components & Libraries
 
- - Official website: [`devarchy.com/angular-components`](https://devarchy.com/angular-components)
+ - Official website: [`devarchy.com/angular`](https://devarchy.com/angular)
  - Use devarchy to add a library to the catalog
 
 <br/>
@@ -329,7 +329,7 @@
 
 # UI Layout
 
-*Layout for the overall / main view*
+*Layout the overall / main view*
 
  - [angular2-grid](https://github.com/BTMorton/angular2-grid) - A grid-based drag/drop/resize directive plugin for Angular 2.
  - [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) - Angular 2 fullpage scrolling.
