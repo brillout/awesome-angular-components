@@ -18,6 +18,7 @@
     - [Menu](#menu)
     - [Charts](#charts)
     - [Map](#map)
+    - [List Virtualization](#list-virtualization)
     - [Infinite Scroll](#infinite-scroll)
     - [Parallax](#parallax)
     - [Scrollbar](#scrollbar)
@@ -165,6 +166,10 @@
  - [angular2-google-maps](https://github.com/SebastianM/angular2-google-maps) - Angular 2+ Google Maps Components.
  - [ng2-map](https://github.com/ng2-ui/ng2-map) - Angular2 Google Maps Directives.
  - [angular2-esri4-components](https://github.com/kgs916/angular2-esri4-components) - A set of Angular 2 components to work with ArcGIS API for JavaScript v4.1.
+
+###### List Virtualization
+
+- [od-virtualscroll](https://github.com/dinony/od-virtualscroll) - Observable-based virtual scroll implementation in Angular
 
 ###### Infinite Scroll
 
