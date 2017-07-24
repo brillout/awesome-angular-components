@@ -146,7 +146,7 @@
  - [angular2-busy](https://github.com/devyumao/angular2-busy) - Show busy/loading indicators on any promise, or on any Observable's subscription.
  - [angular2-ladda](https://github.com/moff/angular2-ladda) - Angular 2 Ladda module.
  - [ng-spin-kit](https://github.com/WoltersKluwerPL/ng-spin-kit) - SpinKit ( spinners for Angular 2+.
- - [ng2-progressbar](https://github.com/MurhafSousli/ng2-progressbar) - Angular progress bar.
+ - [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Angular progress bar.
 
 ###### Menu
 
