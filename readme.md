@@ -409,7 +409,7 @@
 
  - [@angular-redux/store](https://github.com/angular-redux/store) - Angular 2 bindings for Redux.
  - [@ngrx/store](https://github.com/ngrx/store) - RxJS powered state management for Angular applications, inspired by Redux.
- - [ng2-mobx](https://github.com/500tech/ng2-mobx) - MobX connector to Angular 2.
+ - [mobx-angular](https://github.com/mobxjs/mobx-angular) - MobX connector to Angular 2.
 
 ### Communication with Server
 
