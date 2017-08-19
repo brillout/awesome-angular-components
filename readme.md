@@ -61,6 +61,7 @@
 - [Utilities](#utilities)
     - [Pipes](#pipes)
     - [Form](#form-1)
+    - [Animations](#animations)
     - [API](#api)
     - [Authentication](#authentication)
     - [Event Handling](#event-handling)
@@ -447,6 +448,10 @@
  - [angular2-schema-form](https://github.com/makinacorpus/angular2-schema-form) - Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form).
  - [ng-formly](https://github.com/formly-js/ng-formly) - JavaScript powered FORMS for ANGULAR 2.x and above.
  - [@ultimate/ngxerrors](https://github.com/UltimateAngular/ngxerrors) - A declarative validation module for reactive forms.
+ 
+###### Animations
+
+- [ng-animate](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular 4.2+
 
 ###### API
 
