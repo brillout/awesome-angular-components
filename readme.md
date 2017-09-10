@@ -473,7 +473,7 @@
  - [angular2-token](https://github.com/neroniaky/angular2-token) - Token based authentication service for Angular2 (ng2) with multi-user support. Works best with the devise token auth gem for Rails.
  - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
  - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2.
- - [ngx-auth](https://github.com/fulls1z3/ngx-auth) - Authentication utility for Angular.
+ - [@ngx-auth/core](https://github.com/fulls1z3/ngx-auth) - Authentication utility for Angular.
 
 ###### Event Handling
 
@@ -494,7 +494,7 @@
  - [angular2-localstorage](https://github.com/marcj/angular2-localstorage) - Angular2 decorator to save and restore variables/class properties to HTML5 LocalStorage automatically.
  - [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) - Localstorage and sessionstorage manager - angular2 service.
  - [angular-safeguard](https://github.com/MikaAK/angular-safeguard) - Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
- - [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular.
+ - [@ngx-cache/core](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular.
 
 ###### Cookie
 
@@ -543,7 +543,7 @@
 *Set meta tags, <title>, children of <head>*
 
  - [ng2-meta](https://github.com/vinaygopinath/ng2-meta) - Dynamic meta tags and SEO in Angular2.
- - [ng2-metadata](https://github.com/fulls1z3/ng2-metadata) - Dynamic page title & meta tags generator for Angular2.
+ - [@ngx-meta/core](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering).
 
 ###### Clipboard
 
