@@ -473,6 +473,7 @@
  - [angular2-token](https://github.com/neroniaky/angular2-token) - Token based authentication service for Angular2 (ng2) with multi-user support. Works best with the devise token auth gem for Rails.
  - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
  - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2.
+ - [ngx-auth](https://github.com/fulls1z3/ngx-auth) - Authentication utility for Angular.
 
 ###### Event Handling
 
