@@ -524,6 +524,7 @@
 
  - [@ngx-translate/core](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular 2+.
  - [angular-l10n](https://github.com/robisim74/angular-l10n) - An Angular 2 library to translate messages, dates and numbers.
+ - [@ngx-universal/translate-loader](https://github.com/fulls1z3/ngx-translate) - Loader for @ngx-translate that provides translations to browser/server platforms.
 
 ###### Logging
 
