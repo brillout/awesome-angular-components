@@ -431,7 +431,7 @@
  - [codelyzer](https://github.com/mgechev/codelyzer) - Linting for Angular projects.
  - [babel-plugin-angular2-annotations](https://github.com/shuhei/babel-plugin-angular2-annotations) - A babel transformer plugin for Angular 2 annotations.
  - [redux-decorators](https://github.com/KarlPurk/redux-decorators) - A ridiculously good syntax for working with Redux using decorators in ES7 / TypeScript. Currently limited to Angular 2 but could potentially be used elsewhere.
-- [angular-tslint-rules](https://github.com/ng-seed/angular-tslint-rules) - Shared TSLint & codelyzer rules to enforce a consistent code style for Angular development.
+ - [angular-tslint-rules](https://github.com/ng-seed/angular-tslint-rules) - Shared TSLint & codelyzer rules to enforce a consistent code style for Angular development.
 
 
 
@@ -494,6 +494,7 @@
  - [angular2-localstorage](https://github.com/marcj/angular2-localstorage) - Angular2 decorator to save and restore variables/class properties to HTML5 LocalStorage automatically.
  - [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) - Localstorage and sessionstorage manager - angular2 service.
  - [angular-safeguard](https://github.com/MikaAK/angular-safeguard) - Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
+ - [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular.
 
 ###### Cookie
 
