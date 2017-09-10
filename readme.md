@@ -506,6 +506,7 @@
 
  - [ng2-breadcrumb](https://github.com/gmostert/ng2-breadcrumb) - This is an angular 2 component that creates a breadcrumb trail. It hooks into the angular2/router, to dynamically build up the crumb trail once a component is routed to.
  - [ng2-page-transition](https://github.com/bergben/ng2-page-transition) - Simple Angular2 component to create a page transition animation on route changes.
+ - [@ngx-i18n-router/core](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular.
 
 ###### Pagination
 
