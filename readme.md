@@ -634,6 +634,7 @@
  - [@ngrx/store-devtools](https://github.com/ngrx/store-devtools) - Developer Tools for @ngrx/store.
  - [angular2-prettyjson](https://github.com/matiboy/angular2-prettyjson) - Angular 2 debug output of objects. Contains a pipe similar to JsonPipe but adds support for spacing and handling of circular structures.
  - [Augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome.
+ - [angular-webpack-config](https://github.com/ng-seed/angular-webpack-config) - Shared Webpack config for Angular development.
 
 
 
