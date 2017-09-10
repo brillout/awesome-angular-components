@@ -617,6 +617,8 @@
  - [pubnub-angular2](https://github.com/pubnub/pubnub-angular2) - Official PubNub Angular2.
  - [ng2-awesome-disqus](https://github.com/MurhafSousli/ng2-disqus) - Disqus for Angular.
  - [angular2-esri-loader](https://github.com/tomwayson/angular2-esri-loader) - An Angular 2 service to help you load ArcGIS API for JavaScript Modules.
+ - [@ngx-universal/express-engine](https://github.com/fulls1z3/ngx-universal) - Express engine for Angular Universal.
+ - [@ngx-universal/state-transfer](https://github.com/fulls1z3/ngx-universal) - State transferring utility for Angular Universal.
 
 
 
