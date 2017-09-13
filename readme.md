@@ -187,7 +187,6 @@
 *Replace the browser scrollbar with a custom one*
 
  - [angular2-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar) - Angular 2 wrapper library for perfect scrollbar.
- - [ngx-ps](https://github.com/fulls1z3/ngx-ps) - perfect-scrollbar implementation for Angular.
 
 ###### Carousel
 
