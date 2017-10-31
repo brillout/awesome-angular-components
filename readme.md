@@ -286,7 +286,7 @@
 
  - [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Simple drag and drop with dragula.
  - [ng2-dnd](https://github.com/akserg/ng2-dnd) - Angular 2 Drag-and-Drop without dependencies.
- - [ng2-drag-drop](https://github.com/ObaidUrRehman/ng2-drag-drop) - Angular 2 Drag & Drop based on HTML5 with no external dependencies.
+ - [ng-drag-drop](https://github.com/ObaidUrRehman/ng-drag-drop) - Angular 4 Drag & Drop based on HTML5 with no external dependencies.
 
 ###### Sortable List
 
