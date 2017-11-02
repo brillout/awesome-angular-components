@@ -400,6 +400,7 @@
 *Server-side rendering*
 
  - [angular-ssr](https://github.com/clbond/angular-ssr) - Angular 4+ server-side rendering solution
+ - [@ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Material Design & Flexbox, Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, @ngrx/store, config, cache, i18n, SEO, angulartics2 and TSLint/codelyzer.
 
 
 
@@ -414,6 +415,7 @@
  - [@angular-redux/store](https://github.com/angular-redux/store) - Angular 2 bindings for Redux.
  - [@ngrx/store](https://github.com/ngrx/store) - RxJS powered state management for Angular applications, inspired by Redux.
  - [mobx-angular](https://github.com/mobxjs/mobx-angular) - MobX connector to Angular 2.
+ - [@ngx-config/core](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular.
 
 ### Communication with Server
 
@@ -430,7 +432,7 @@
  - [codelyzer](https://github.com/mgechev/codelyzer) - Linting for Angular projects.
  - [babel-plugin-angular2-annotations](https://github.com/shuhei/babel-plugin-angular2-annotations) - A babel transformer plugin for Angular 2 annotations.
  - [redux-decorators](https://github.com/KarlPurk/redux-decorators) - A ridiculously good syntax for working with Redux using decorators in ES7 / TypeScript. Currently limited to Angular 2 but could potentially be used elsewhere.
-
+ - [angular-tslint-rules](https://github.com/ng-seed/angular-tslint-rules) - Shared TSLint & codelyzer rules to enforce a consistent code style for Angular development.
 
 
 
@@ -472,6 +474,7 @@
  - [angular2-token](https://github.com/neroniaky/angular2-token) - Token based authentication service for Angular2 (ng2) with multi-user support. Works best with the devise token auth gem for Rails.
  - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
  - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2.
+ - [@ngx-auth/core](https://github.com/fulls1z3/ngx-auth) - Authentication utility for Angular.
 
 ###### Event Handling
 
@@ -492,6 +495,7 @@
  - [angular2-localstorage](https://github.com/marcj/angular2-localstorage) - Angular2 decorator to save and restore variables/class properties to HTML5 LocalStorage automatically.
  - [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) - Localstorage and sessionstorage manager - angular2 service.
  - [angular-safeguard](https://github.com/MikaAK/angular-safeguard) - Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
+ - [@ngx-cache/core](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular.
 
 ###### Cookie
 
@@ -503,6 +507,7 @@
 
  - [ng2-breadcrumb](https://github.com/gmostert/ng2-breadcrumb) - This is an angular 2 component that creates a breadcrumb trail. It hooks into the angular2/router, to dynamically build up the crumb trail once a component is routed to.
  - [ng2-page-transition](https://github.com/bergben/ng2-page-transition) - Simple Angular2 component to create a page transition animation on route changes.
+ - [@ngx-i18n-router/core](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular.
 
 ###### Pagination
 
@@ -519,6 +524,7 @@
 
  - [@ngx-translate/core](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular 2+.
  - [angular-l10n](https://github.com/robisim74/angular-l10n) - An Angular 2 library to translate messages, dates and numbers.
+ - [@ngx-universal/translate-loader](https://github.com/fulls1z3/ngx-translate) - Loader for @ngx-translate that provides translations to browser/server platforms.
 
 ###### Logging
 
@@ -540,7 +546,7 @@
 *Set meta tags, <title>, children of <head>*
 
  - [ng2-meta](https://github.com/vinaygopinath/ng2-meta) - Dynamic meta tags and SEO in Angular2.
- - [ng2-metadata](https://github.com/fulls1z3/ng2-metadata) - Dynamic page title & meta tags generator for Angular2.
+ - [@ngx-meta/core](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering).
 
 ###### Clipboard
 
@@ -613,6 +619,7 @@
  - [pubnub-angular2](https://github.com/pubnub/pubnub-angular2) - Official PubNub Angular2.
  - [ng2-awesome-disqus](https://github.com/MurhafSousli/ng2-disqus) - Disqus for Angular.
  - [angular2-esri-loader](https://github.com/tomwayson/angular2-esri-loader) - An Angular 2 service to help you load ArcGIS API for JavaScript Modules.
+ - [@ngx-universal/state-transfer](https://github.com/fulls1z3/ngx-universal) - State transferring utility for Angular Universal.
 
 
 
@@ -626,6 +633,7 @@
  - [@ngrx/store-devtools](https://github.com/ngrx/store-devtools) - Developer Tools for @ngrx/store.
  - [angular2-prettyjson](https://github.com/matiboy/angular2-prettyjson) - Angular 2 debug output of objects. Contains a pipe similar to JsonPipe but adds support for spacing and handling of circular structures.
  - [Augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome.
+ - [angular-webpack-config](https://github.com/ng-seed/angular-webpack-config) - Shared Webpack config for Angular development.
 
 
 
@@ -651,4 +659,5 @@
  - [clarity-seed](https://github.com/vmware/clarity-seed) - This is a repository for a seed project that includes Clarity Design System's dependencies.
  - [Angular 2 Webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
  - [Colmena CMS](https://github.com/colmena/colmena-cms) - Free and Open Source API and Admin powered by LoopBack and Angular.
+ - [@ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Material Design & Flexbox, Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, @ngrx/store, config, cache, i18n, SEO, angulartics2 and TSLint/codelyzer.
 
