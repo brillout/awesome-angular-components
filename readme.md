@@ -64,6 +64,7 @@
     - [Animations](#animations)
     - [API](#api)
     - [Authentication](#authentication)
+    - [Authorization](#authorization)
     - [Event Handling](#event-handling)
     - [Scroll](#scroll)
     - [Responsive Design](#responsive-design)
@@ -452,7 +453,7 @@
 
  - [angular2-schema-form](https://github.com/makinacorpus/angular2-schema-form) - Angular2 Schema Form (DISCLAIMER: it is not related to angular-schema-form).
  - [ng-formly](https://github.com/formly-js/ng-formly) - JavaScript powered FORMS for ANGULAR 2.x and above.
- - [@ultimate/ngxerrors](https://github.com/UltimateAngular/ngxerrors) - A declarative validation module for reactive forms.
+ - [@ultimate/ngx-errors](https://github.com/UltimateAngular/ngx-errors) - A declarative validation module for reactive forms.
  
 ###### Animations
 
@@ -475,6 +476,10 @@
  - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
  - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2.
  - [@ngx-auth/core](https://github.com/fulls1z3/ngx-auth) - Authentication utility for Angular.
+
+###### Authorization
+
+ - [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
 
 ###### Event Handling
 
