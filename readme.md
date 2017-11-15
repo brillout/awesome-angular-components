@@ -34,6 +34,7 @@
     - [Form](#form)
         - [Date Picker](#date-picker)
         - [Color Picker](#color-picker)
+        - [Data Picker](#data-picker)
         - [Slider](#slider)
         - [Select](#select)
         - [Autocomplete](#autocomplete)
@@ -255,6 +256,10 @@
  - [ngx-color-picker](https://github.com/zefoy/ngx-color-picker) - Color picker widget for Angular 2+.
  - [angular2-color-picker](https://github.com/Alberplz/angular2-color-picker) - Angular 2 Color Picker Directive, no dependences required.
  - [ng2-color-picker](https://github.com/AndyMeps/ng2-color-picker) - Simple color picker for Angular 2.
+ 
+###### Data Picker
+
+ - [ng-data-picker](https://github.com/hiyali/ng-data-picker) - 🏄🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
 
 ###### Slider
 
