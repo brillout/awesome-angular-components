@@ -605,7 +605,6 @@
  - [angular2-meteor](https://github.com/Urigo/angular-meteor) - Angular and Meteor - The perfect stack.
  - [angulartics2](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
  - [perfectedtech-loopback-sdk-builder](https://github.com/mean-expert-official/loopback-sdk-builder) - Tool for auto-generating Software Development Kits (SDKs) for LoopBack.
- - [Storybook](https://github.com/storybooks/storybook) - The UI development environment you'll love to use.
  - [ng2-alfresco-core](https://github.com/Alfresco/alfresco-ng2-components) - Alfresco Angular 2 components.
  - [karma-typescript](https://github.com/monounity/karma-typescript) - Simplifying running unit tests with coverage for Typescript projects.
  - [meteor-rxjs](https://github.com/Urigo/mongo-rxjs-observable) - Exposing Mongo Cursor as RxJS Observable.
@@ -629,6 +628,7 @@
 
 # Dev Tools
 
+ - [Storybook](https://github.com/storybooks/storybook) - The UI development environment you'll love to use.
  - [@compodoc/ngd-cli](https://github.com/compodoc/ngd) - View the dependencies tree of you Angular2 application.
  - [angular-playground](https://github.com/SoCreate/angular-playground) - A drop in app module for working on Angular components in isolation (Angular version 2.x and above).
  - [@ngrx/store-devtools](https://github.com/ngrx/store-devtools) - Developer Tools for @ngrx/store.
