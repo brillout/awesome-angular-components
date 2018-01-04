@@ -202,7 +202,7 @@
 
 ###### Context Menu
 
- - [angular2-contextmenu](https://github.com/isaacplmann/angular2-contextmenu) - A context menu built with Angular 2 inspired by ui.bootstrap.contextMenu.
+ - [ngx-contextmenu](https://github.com/isaacplmann/ngx-contextmenu) - An Angular component to show a context menu on an arbitrary component
 
 ###### Time
 
