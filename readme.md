@@ -119,6 +119,8 @@
 *Show a little dialog next to an element*
 
  - [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - Displays a bootstrap confirmation popover (with no jQuery or bootstrap JS!).
+  - [ngx-popper](https://github.com/MrFrankel/ngx-popper) - An angular wrapper for popper.js, great for tooltips and positioning popping elements.
+
 
 ###### Table
 
