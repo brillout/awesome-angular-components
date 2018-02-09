@@ -393,7 +393,7 @@
 
 *Admin panels / dashboard*
 
- - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+).
+ - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular modules (Angular 5+, Bootstrap 4).
 
 
 # Isomorphic Apps
