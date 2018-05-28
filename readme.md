@@ -275,6 +275,7 @@
 
  - [ng2-completer](https://github.com/oferh/ng2-completer) - Angular 2 autocomplete component.
  - [ng2-auto-complete](https://github.com/ng2-ui/ng2-auto-complete) - Angular2 Auto Complete.
+ - [ng-select](https://github.com/ng-select/ng-select) - Angular 2 all in one UI Select, Multiselect and Autocomplete.
 
 ###### Type Select
 
