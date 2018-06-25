@@ -64,6 +64,7 @@
     - [Animations](#animations)
     - [API](#api)
     - [Authentication](#authentication)
+    - [Authorization](#authorization)
     - [Event Handling](#event-handling)
     - [Scroll](#scroll)
     - [Responsive Design](#responsive-design)
@@ -475,6 +476,10 @@
  - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
  - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2.
  - [@ngx-auth/core](https://github.com/fulls1z3/ngx-auth) - Authentication utility for Angular.
+
+###### Authorization
+
+- [casl-angular](https://github.com/stalniy/casl/tree/master/packages/casl-angular) - Permissions management module which integrates CASL with Angular2+
 
 ###### Event Handling
 
