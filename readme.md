@@ -501,7 +501,7 @@
 
 *Cookie manipulation*
 
- - [angular2-cookie](https://github.com/salemdar/angular2-cookie) - Implementation of Angular 1.x $cookies service to Angular 2.
+ - [ngx-cookie](https://github.com/salemdar/ngx-cookie) - Implementation of Angular 1.x $cookies service to Angular 2.
 
 ###### Routing
 
