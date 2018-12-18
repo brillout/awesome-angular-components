@@ -634,6 +634,7 @@
  - [angular2-prettyjson](https://github.com/matiboy/angular2-prettyjson) - Angular 2 debug output of objects. Contains a pipe similar to JsonPipe but adds support for spacing and handling of circular structures.
  - [Augury](https://github.com/rangle/augury) - Angular 2 development tools for Chrome.
  - [angular-webpack-config](https://github.com/ng-seed/angular-webpack-config) - Shared Webpack config for Angular development.
+ - [bruit.io](https://github.com/Moventes/bruit.io) - Customizable web component to collect user feedbacks and send them to an API like bruit.io [API](https://bruit.io)
 
 
 
