@@ -475,6 +475,8 @@
  - [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc) - Support for OAuth 2 and OpenId Connect (OIDC) in Angular.
  - [angular-oauth2](https://github.com/oauthjs/angular-oauth2) - AngularJS OAuth2.
  - [@ngx-auth/core](https://github.com/fulls1z3/ngx-auth) - Authentication utility for Angular.
+ - [@caliatys/cognito-service](https://github.com/Caliatys/CognitoService) - Angular 6+ service providing user management on AWS Cognito User Pool
+ - [@caliatys/login-form](https://github.com/Caliatys/LoginComponent) - Angular 6 library providing login component using Angular Material
 
 ###### Event Handling
 
