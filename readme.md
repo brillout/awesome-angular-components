@@ -130,6 +130,7 @@
  - [ng2-easy-table](https://github.com/ssuperczynski/ng2-easy-table) - The easiest Angular2 table.
  - [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable.
  - [ag-grid-angular](https://github.com/ceolter/ag-grid-angular) - Ag-Grid Angular 2 Component.
+ - [jqwidgets-angular-grid](https://www.jqwidgets.com/angular/angular-grid/) - Angular Grid Component
  - [ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular 2 Smart Data Table component.
 
 ###### Tree
@@ -138,6 +139,8 @@
 
  - [angular2-tree-component](https://github.com/500tech/angular2-tree-component) - A simple yet powerful tree component for Angular2.
  - [ng2-tree](https://github.com/valor-software/ng2-tree) - Angular2 component for visualizing data that can be naturally represented as a tree.
+  - [jqwidgets-angular-tree](https://www.jqwidgets.com/angular/angular-tree/) - Angular Tree Component
+
 
 ###### Loading / Progress Indicators
 
@@ -161,6 +164,7 @@
  - [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond.
  - [angular2-highcharts](https://github.com/gevgeny/angular2-highcharts) - Highcharts for your Angular2 project.
  - [ng2-nvd3](https://github.com/krispo/ng2-nvd3) - Angular2 component for nvd3.
+ - [jqwidgets-angular-chart](https://www.jqwidgets.com/angular/angular-chart/) - Angular Chart Component
 
 ###### Map
 
@@ -249,6 +253,7 @@
  - [ng2-datetime](https://github.com/nkalinov/ng2-datetime) - Datetime picker plugins wrapper for Angular2.
  - [ng2-date-picker](https://github.com/vlio20/ng2-date-picker) - Highly configurable date picker built for Angular 2 applications.
  - [angular2-material-datepicker](https://github.com/koleary94/Angular-2-Datepicker) - A minimalist datepicker inspired by Google's material design.
+ - [jqwidgets-angular-datetimeinput](https://www.jqwidgets.com/angular/angular-datetimeinput/) - Angular Date Picker
 
 ###### Color Picker
 
@@ -383,6 +388,8 @@
  - [igniteui-js-blocks](https://github.com/IgniteUI/igniteui-js-blocks) - Mobile-first Angular native components.
  - [devextreme-angular](https://github.com/DevExpress/devextreme-angular) - Angular 2 UI and visualization components based on DevExtreme widgets.
  - [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
+  - [jqwidgets-angular](https://www.jqwidgets.com/angular/) - Angular UI Components with Material Design
+
 
 ### Mobile
 
