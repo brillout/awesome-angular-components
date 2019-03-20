@@ -660,4 +660,5 @@
  - [Angular 2 Webpack](https://github.com/preboot/angular2-webpack) - A complete, yet simple, starter for Angular 2 using webpack
  - [Colmena CMS](https://github.com/colmena/colmena-cms) - Free and Open Source API and Admin powered by LoopBack and Angular.
  - [@ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Material Design & Flexbox, Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, @ngrx/store, config, cache, i18n, SEO, angulartics2 and TSLint/codelyzer.
+ - [ScaffoldHub.io](https://scaffoldhub.io) - Generate full Angular Material apps with MongoDB, SQL or Firestore databases.
 
