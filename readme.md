@@ -416,6 +416,7 @@
  - [@ngrx/store](https://github.com/ngrx/store) - RxJS powered state management for Angular applications, inspired by Redux.
  - [mobx-angular](https://github.com/mobxjs/mobx-angular) - MobX connector to Angular 2.
  - [@ngx-config/core](https://github.com/fulls1z3/ngx-config) - Configuration utility for Angular.
+ - [@ngx-context](https://github.com/ng-turkey/ngx-context) - Angular Context: Easy property binding for router outlet and nested component trees.
 
 ### Communication with Server
 
