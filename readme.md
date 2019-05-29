@@ -268,6 +268,7 @@
 
  - [ng2-select](https://github.com/valor-software/ng2-select) - Angular2 based replacement for select boxes.
  - [angular2-select](https://github.com/basvandenberg/angular2-select) - A native angular 2 select component (based on select2).
+ - [ngx-flexible-select](https://github.com/AndreySyagrovskiy/ngx-flexible-select) - The most flexible and customized select
 
 ###### Autocomplete
 
