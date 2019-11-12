@@ -504,7 +504,7 @@
  - [angular2-cookie](https://github.com/salemdar/angular2-cookie) - Implementation of Angular 1.x $cookies service to Angular 2.
 
 ###### Routing
-
+ - [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond. Support for custom template, icons, styles, separator and i18n.
  - [ng2-breadcrumb](https://github.com/gmostert/ng2-breadcrumb) - This is an angular 2 component that creates a breadcrumb trail. It hooks into the angular2/router, to dynamically build up the crumb trail once a component is routed to.
  - [ng2-page-transition](https://github.com/bergben/ng2-page-transition) - Simple Angular2 component to create a page transition animation on route changes.
  - [@ngx-i18n-router/core](https://github.com/fulls1z3/ngx-i18n-router) - Route internationalization utility for Angular.
