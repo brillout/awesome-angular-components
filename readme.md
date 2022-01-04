@@ -383,6 +383,7 @@
  - [igniteui-js-blocks](https://github.com/IgniteUI/igniteui-js-blocks) - Mobile-first Angular native components.
  - [devextreme-angular](https://github.com/DevExpress/devextreme-angular) - Angular 2 UI and visualization components based on DevExtreme widgets.
  - [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
+ - [CoreUI for Angular](https://github.com/coreui/coreui-angular) - Open Source Angular Components Library for creating modern, beautiful, and responsive applications in half the time with high-performing and easy-to-customize UI components.
 
 ### Mobile
 
