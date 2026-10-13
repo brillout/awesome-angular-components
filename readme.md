@@ -394,6 +394,8 @@
 *Admin panels / dashboard*
 
  - [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+).
+ - [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - Open-Source React Tailwind Admin Dashboard Template with Shadcn
+
 
 
 # Isomorphic Apps
